@@ -1,0 +1,10 @@
+zmat angstroms
+ o
+ h   1 ho2     
+ h    1 ho3         2 hoh3      
+variables
+ho2         1.000000
+ho3         1.000000
+hoh3        120.000
+constants
+end

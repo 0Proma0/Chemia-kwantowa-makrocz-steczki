@@ -1,0 +1,10 @@
+%chk=n2_hf.chk
+#P HF/6-31G(d) Opt GFInput Pop=Full IOP(6/80=1)
+
+optymalizacja geometrii n2 metoda HF
+
+0 1
+N    
+N 1   1.098
+
+

@@ -1,0 +1,13 @@
+%oldchk=n2_MP2.chk
+%chk=n2p_sgm_MP2.chk
+#P MP2/6-31G(d) guess=(read,alter) GFInput Pop=Full IOP(6/80=1)
+
+n2 energia jonu w stanie Sigma MP2
+
+1 2
+N    
+N 1   1.1307
+
+
+5 7
+

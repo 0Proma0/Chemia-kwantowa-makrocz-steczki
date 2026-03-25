@@ -1,0 +1,11 @@
+%oldchk=n2_hf.chk
+%chk=n2p_pi_hf.chk
+#P HF/6-31G(d) guess=read GFInput Pop=Full IOP(6/80=1)
+
+n2 energia jonu w stanie Pi
+
+1 2
+N    
+N 1   1.0784
+
+

@@ -1,0 +1,11 @@
+%oldchk=n2_B3LYP.chk
+%chk=n2p_pi_B3LYP.chk
+#P B3LYP/6-31G(d) guess=read GFInput Pop=Full IOP(6/80=1)
+
+n2 energia jonu w stanie Pi B3LYP
+
+1 2
+N    
+N 1   1.1055
+
+

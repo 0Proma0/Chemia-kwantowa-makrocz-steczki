@@ -1,0 +1,10 @@
+%chk=n2_MP2.chk
+#P MP2/6-31G(d) Opt GFInput Pop=Full IOP(6/80=1)
+
+optymalizacja geometrii n2 metoda MP2
+
+0 1
+N    
+N 1   1.098
+
+

@@ -1,0 +1,9 @@
+6_311G_2df.log:    68 basis functions,   110 primitive gaussians,    78 cartesian basis functions
+6_311G_3df.log:    78 basis functions,   122 primitive gaussians,    90 cartesian basis functions
+6_311G_d.log:    44 basis functions,    78 primitive gaussians,    46 cartesian basis functions
+6_311G_plus_3df.log:    86 basis functions,   130 primitive gaussians,    98 cartesian basis functions
+6_31G_d.log:    34 basis functions,    80 primitive gaussians,    34 cartesian basis functions
+6_31G.log:    22 basis functions,    68 primitive gaussians,    22 cartesian basis functions
+cc_pVQZ.log:   114 basis functions,   223 primitive gaussians,   144 cartesian basis functions
+maug_cc_pV_Q_plus_d_Z.log:    45 basis functions,   118 primitive gaussians,    48 cartesian basis functions
+STO_3G.log:    14 basis functions,    42 primitive gaussians,    14 cartesian basis functions

@@ -1,0 +1,9 @@
+6_311G_2df.log: Job cpu time:       0 days  0 hours  0 minutes  3.0 seconds.
+6_311G_3df.log: Job cpu time:       0 days  0 hours  0 minutes  3.7 seconds.
+6_311G_d.log: Job cpu time:       0 days  0 hours  0 minutes  1.6 seconds.
+6_311G_plus_3df.log: Job cpu time:       0 days  0 hours  0 minutes  4.4 seconds.
+6_31G_d.log: Job cpu time:       0 days  0 hours  0 minutes  1.5 seconds.
+6_31G.log: Job cpu time:       0 days  0 hours  0 minutes  1.2 seconds.
+cc_pVQZ.log: Job cpu time:       0 days  0 hours  0 minutes 14.1 seconds.
+maug_cc_pV_Q_plus_d_Z.log: Job cpu time:       0 days  0 hours  0 minutes  1.8 seconds.
+STO_3G.log: Job cpu time:       0 days  0 hours  0 minutes  1.1 seconds.

@@ -1,0 +1,9 @@
+6_311G_2df.log: ! R1    R(1,2)                  1.4796         -DE/DX =    0.0                 !
+6_311G_3df.log: ! R1    R(1,2)                  1.4759         -DE/DX =    0.0                 !
+6_311G_d.log: ! R1    R(1,2)                  1.4915         -DE/DX =    0.0                 !
+6_311G_plus_3df.log: ! R1    R(1,2)                  1.4775         -DE/DX =    0.0                 !
+6_31G_d.log: ! R1    R(1,2)                  1.4986         -DE/DX =    0.0                 !
+6_31G.log: ! R1    R(1,2)                  1.5942         -DE/DX =   -0.0002              !
+cc_pVQZ.log: ! R1    R(1,2)                  1.4801         -DE/DX =    0.0                 !
+maug_cc_pV_Q_plus_d_Z.log: ! R1    R(1,2)                  1.4951         -DE/DX =    0.0                 !
+STO_3G.log: ! R1    R(1,2)                  1.5501         -DE/DX =    0.0                 !

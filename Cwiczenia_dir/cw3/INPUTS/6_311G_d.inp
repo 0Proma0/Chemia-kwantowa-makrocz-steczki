@@ -1,0 +1,8 @@
+#p UB3LYP/6-311G(d) Opt Pop=Full
+
+PO optymalizacja baza 6-311G(d)
+
+0 2
+P  0.0 0.0 0.0
+O  0.0 0.0 1.5
+

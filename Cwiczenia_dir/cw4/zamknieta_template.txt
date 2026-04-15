@@ -1,0 +1,6 @@
+# B3LYP/6-311G(d,p) GFInput Pop=Full IOP(6/80=1)
+
+komentarz zamkniętopowłokowa cząsteczka
+
+0 1
+

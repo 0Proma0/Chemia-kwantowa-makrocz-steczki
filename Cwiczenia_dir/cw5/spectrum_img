@@ -1,0 +1,12065 @@
+%!PS-Adobe-1.0%
+%%Title: Molden
+%%BoundingBox: 0 0 612 792
+/m { moveto } def
+/l { lineto } def
+/Helvetica-Bold findfont [ 5   0   0  5   0   0] makefont setfont
+%%EndProlog
+0 setgray
+90 rotate
+1.3 2.0 scale
+10 0 translate
+496 -298 m 4 0 (Frequency) ashow
+5 -14 m 4 0 (I) ashow
+5 -27 m 4 0 (n) ashow
+5 -40 m 4 0 (t) ashow
+5 -53 m 4 0 (e) ashow
+5 -65 m 4 0 (n) ashow
+5 -78 m 4 0 (s) ashow
+5 -91 m 4 0 (i) ashow
+5 -104 m 4 0 (t) ashow
+5 -117 m 4 0 (y) ashow
+newpath
+16 -272 m 583 -272 l
+stroke
+newpath
+16 -272 m 16 -14 l
+stroke
+newpath
+16 -272 m 16 -277 l
+stroke
+16 -285 m 4 0 (0) ashow
+newpath
+87 -272 m 87 -277 l
+stroke
+87 -285 m 4 0 (500) ashow
+newpath
+158 -272 m 158 -277 l
+stroke
+157 -285 m 4 0 (1000) ashow
+newpath
+228 -272 m 228 -277 l
+stroke
+228 -285 m 4 0 (1500) ashow
+newpath
+299 -272 m 299 -277 l
+stroke
+298 -285 m 4 0 (2000) ashow
+newpath
+370 -272 m 370 -277 l
+stroke
+369 -285 m 4 0 (2500) ashow
+newpath
+441 -272 m 441 -277 l
+stroke
+440 -285 m 4 0 (3000) ashow
+newpath
+512 -272 m 512 -277 l
+stroke
+511 -285 m 4 0 (3500) ashow
+newpath
+582 -272 m 582 -277 l
+stroke
+582 -285 m 4 0 (4000) ashow
+0 0 m 4 0 () ashow
+newpath
+16 -255 m 16 -255 l
+stroke
+newpath
+16 -255 m 17 -255 l
+stroke
+newpath
+17 -255 m 17 -255 l
+stroke
+newpath
+17 -255 m 17 -255 l
+stroke
+newpath
+17 -255 m 17 -255 l
+stroke
+newpath
+17 -255 m 17 -254 l
+stroke
+newpath
+17 -254 m 17 -254 l
+stroke
+newpath
+17 -254 m 17 -254 l
+stroke
+newpath
+17 -254 m 17 -254 l
+stroke
+newpath
+17 -254 m 17 -254 l
+stroke
+newpath
+17 -254 m 18 -254 l
+stroke
+newpath
+18 -254 m 18 -254 l
+stroke
+newpath
+18 -254 m 18 -254 l
+stroke
+newpath
+18 -254 m 18 -253 l
+stroke
+newpath
+18 -253 m 18 -253 l
+stroke
+newpath
+18 -253 m 18 -253 l
+stroke
+newpath
+18 -253 m 19 -253 l
+stroke
+newpath
+19 -253 m 19 -252 l
+stroke
+newpath
+19 -252 m 19 -252 l
+stroke
+newpath
+19 -252 m 19 -252 l
+stroke
+newpath
+19 -252 m 19 -252 l
+stroke
+newpath
+19 -252 m 19 -252 l
+stroke
+newpath
+19 -252 m 20 -252 l
+stroke
+newpath
+20 -252 m 20 -251 l
+stroke
+newpath
+20 -251 m 20 -251 l
+stroke
+newpath
+20 -251 m 20 -251 l
+stroke
+newpath
+20 -251 m 20 -251 l
+stroke
+newpath
+20 -251 m 20 -251 l
+stroke
+newpath
+20 -251 m 20 -250 l
+stroke
+newpath
+20 -250 m 20 -250 l
+stroke
+newpath
+20 -250 m 20 -250 l
+stroke
+newpath
+20 -250 m 21 -250 l
+stroke
+newpath
+21 -250 m 21 -250 l
+stroke
+newpath
+21 -250 m 21 -249 l
+stroke
+newpath
+21 -249 m 21 -249 l
+stroke
+newpath
+21 -249 m 21 -249 l
+stroke
+newpath
+21 -249 m 21 -248 l
+stroke
+newpath
+21 -248 m 22 -248 l
+stroke
+newpath
+22 -248 m 22 -248 l
+stroke
+newpath
+22 -248 m 22 -248 l
+stroke
+newpath
+22 -248 m 22 -247 l
+stroke
+newpath
+22 -247 m 22 -247 l
+stroke
+newpath
+22 -247 m 22 -247 l
+stroke
+newpath
+22 -247 m 23 -246 l
+stroke
+newpath
+23 -246 m 23 -246 l
+stroke
+newpath
+23 -246 m 23 -245 l
+stroke
+newpath
+23 -245 m 23 -245 l
+stroke
+newpath
+23 -245 m 23 -245 l
+stroke
+newpath
+23 -245 m 23 -244 l
+stroke
+newpath
+23 -244 m 23 -244 l
+stroke
+newpath
+23 -244 m 23 -243 l
+stroke
+newpath
+23 -243 m 23 -243 l
+stroke
+newpath
+23 -243 m 24 -242 l
+stroke
+newpath
+24 -242 m 24 -241 l
+stroke
+newpath
+24 -241 m 24 -240 l
+stroke
+newpath
+24 -240 m 24 -240 l
+stroke
+newpath
+24 -240 m 24 -239 l
+stroke
+newpath
+24 -239 m 24 -238 l
+stroke
+newpath
+24 -238 m 25 -238 l
+stroke
+newpath
+25 -238 m 25 -237 l
+stroke
+newpath
+25 -237 m 25 -236 l
+stroke
+newpath
+25 -236 m 25 -235 l
+stroke
+newpath
+25 -235 m 25 -235 l
+stroke
+newpath
+25 -235 m 25 -234 l
+stroke
+newpath
+25 -234 m 25 -233 l
+stroke
+newpath
+25 -233 m 25 -232 l
+stroke
+newpath
+25 -232 m 26 -231 l
+stroke
+newpath
+26 -231 m 26 -229 l
+stroke
+newpath
+26 -229 m 26 -228 l
+stroke
+newpath
+26 -228 m 26 -226 l
+stroke
+newpath
+26 -226 m 26 -225 l
+stroke
+newpath
+26 -225 m 26 -224 l
+stroke
+newpath
+26 -224 m 27 -222 l
+stroke
+newpath
+27 -222 m 27 -221 l
+stroke
+newpath
+27 -221 m 27 -218 l
+stroke
+newpath
+27 -218 m 27 -217 l
+stroke
+newpath
+27 -217 m 27 -215 l
+stroke
+newpath
+27 -215 m 27 -213 l
+stroke
+newpath
+27 -213 m 28 -211 l
+stroke
+newpath
+28 -211 m 28 -208 l
+stroke
+newpath
+28 -208 m 28 -205 l
+stroke
+newpath
+28 -205 m 28 -203 l
+stroke
+newpath
+28 -203 m 28 -200 l
+stroke
+newpath
+28 -200 m 28 -197 l
+stroke
+newpath
+28 -197 m 28 -194 l
+stroke
+newpath
+28 -194 m 28 -191 l
+stroke
+newpath
+28 -191 m 28 -187 l
+stroke
+newpath
+28 -187 m 29 -183 l
+stroke
+newpath
+29 -183 m 29 -179 l
+stroke
+newpath
+29 -179 m 29 -176 l
+stroke
+newpath
+29 -176 m 29 -171 l
+stroke
+newpath
+29 -171 m 29 -167 l
+stroke
+newpath
+29 -167 m 29 -162 l
+stroke
+newpath
+29 -162 m 30 -157 l
+stroke
+newpath
+30 -157 m 30 -152 l
+stroke
+newpath
+30 -152 m 30 -147 l
+stroke
+newpath
+30 -147 m 30 -142 l
+stroke
+newpath
+30 -142 m 30 -136 l
+stroke
+newpath
+30 -136 m 30 -131 l
+stroke
+newpath
+30 -131 m 30 -127 l
+stroke
+newpath
+30 -127 m 30 -121 l
+stroke
+newpath
+30 -121 m 30 -117 l
+stroke
+newpath
+30 -117 m 31 -113 l
+stroke
+newpath
+31 -113 m 31 -109 l
+stroke
+newpath
+31 -109 m 31 -106 l
+stroke
+newpath
+31 -106 m 31 -104 l
+stroke
+newpath
+31 -104 m 31 -101 l
+stroke
+newpath
+31 -101 m 31 -100 l
+stroke
+newpath
+31 -100 m 32 -100 l
+stroke
+newpath
+32 -100 m 32 -101 l
+stroke
+newpath
+32 -101 m 32 -102 l
+stroke
+newpath
+32 -102 m 32 -104 l
+stroke
+newpath
+32 -104 m 32 -107 l
+stroke
+newpath
+32 -107 m 32 -110 l
+stroke
+newpath
+32 -110 m 33 -114 l
+stroke
+newpath
+33 -114 m 33 -118 l
+stroke
+newpath
+33 -118 m 33 -123 l
+stroke
+newpath
+33 -123 m 33 -128 l
+stroke
+newpath
+33 -128 m 33 -133 l
+stroke
+newpath
+33 -133 m 33 -138 l
+stroke
+newpath
+33 -138 m 33 -143 l
+stroke
+newpath
+33 -143 m 33 -148 l
+stroke
+newpath
+33 -148 m 33 -153 l
+stroke
+newpath
+33 -153 m 34 -158 l
+stroke
+newpath
+34 -158 m 34 -163 l
+stroke
+newpath
+34 -163 m 34 -168 l
+stroke
+newpath
+34 -168 m 34 -172 l
+stroke
+newpath
+34 -172 m 34 -177 l
+stroke
+newpath
+34 -177 m 34 -181 l
+stroke
+newpath
+34 -181 m 35 -185 l
+stroke
+newpath
+35 -185 m 35 -188 l
+stroke
+newpath
+35 -188 m 35 -192 l
+stroke
+newpath
+35 -192 m 35 -195 l
+stroke
+newpath
+35 -195 m 35 -198 l
+stroke
+newpath
+35 -198 m 35 -201 l
+stroke
+newpath
+35 -201 m 35 -204 l
+stroke
+newpath
+35 -204 m 35 -206 l
+stroke
+newpath
+35 -206 m 36 -209 l
+stroke
+newpath
+36 -209 m 36 -211 l
+stroke
+newpath
+36 -211 m 36 -213 l
+stroke
+newpath
+36 -213 m 36 -215 l
+stroke
+newpath
+36 -215 m 36 -217 l
+stroke
+newpath
+36 -217 m 36 -219 l
+stroke
+newpath
+36 -219 m 37 -221 l
+stroke
+newpath
+37 -221 m 37 -223 l
+stroke
+newpath
+37 -223 m 37 -224 l
+stroke
+newpath
+37 -224 m 37 -225 l
+stroke
+newpath
+37 -225 m 37 -227 l
+stroke
+newpath
+37 -227 m 37 -228 l
+stroke
+newpath
+37 -228 m 38 -229 l
+stroke
+newpath
+38 -229 m 38 -231 l
+stroke
+newpath
+38 -231 m 38 -232 l
+stroke
+newpath
+38 -232 m 38 -233 l
+stroke
+newpath
+38 -233 m 38 -234 l
+stroke
+newpath
+38 -234 m 38 -235 l
+stroke
+newpath
+38 -235 m 38 -236 l
+stroke
+newpath
+38 -236 m 38 -236 l
+stroke
+newpath
+38 -236 m 38 -237 l
+stroke
+newpath
+38 -237 m 39 -238 l
+stroke
+newpath
+39 -238 m 39 -239 l
+stroke
+newpath
+39 -239 m 39 -239 l
+stroke
+newpath
+39 -239 m 39 -240 l
+stroke
+newpath
+39 -240 m 39 -241 l
+stroke
+newpath
+39 -241 m 39 -241 l
+stroke
+newpath
+39 -241 m 40 -242 l
+stroke
+newpath
+40 -242 m 40 -243 l
+stroke
+newpath
+40 -243 m 40 -243 l
+stroke
+newpath
+40 -243 m 40 -244 l
+stroke
+newpath
+40 -244 m 40 -244 l
+stroke
+newpath
+40 -244 m 40 -245 l
+stroke
+newpath
+40 -245 m 41 -245 l
+stroke
+newpath
+41 -245 m 41 -246 l
+stroke
+newpath
+41 -246 m 41 -246 l
+stroke
+newpath
+41 -246 m 41 -246 l
+stroke
+newpath
+41 -246 m 41 -247 l
+stroke
+newpath
+41 -247 m 41 -247 l
+stroke
+newpath
+41 -247 m 41 -247 l
+stroke
+newpath
+41 -247 m 41 -248 l
+stroke
+newpath
+41 -248 m 41 -248 l
+stroke
+newpath
+41 -248 m 42 -248 l
+stroke
+newpath
+42 -248 m 42 -249 l
+stroke
+newpath
+42 -249 m 42 -249 l
+stroke
+newpath
+42 -249 m 42 -249 l
+stroke
+newpath
+42 -249 m 42 -249 l
+stroke
+newpath
+42 -249 m 42 -250 l
+stroke
+newpath
+42 -250 m 43 -250 l
+stroke
+newpath
+43 -250 m 43 -250 l
+stroke
+newpath
+43 -250 m 43 -250 l
+stroke
+newpath
+43 -250 m 43 -250 l
+stroke
+newpath
+43 -250 m 43 -251 l
+stroke
+newpath
+43 -251 m 43 -251 l
+stroke
+newpath
+43 -251 m 43 -251 l
+stroke
+newpath
+43 -251 m 43 -251 l
+stroke
+newpath
+43 -251 m 43 -251 l
+stroke
+newpath
+43 -251 m 44 -252 l
+stroke
+newpath
+44 -252 m 44 -252 l
+stroke
+newpath
+44 -252 m 44 -252 l
+stroke
+newpath
+44 -252 m 44 -252 l
+stroke
+newpath
+44 -252 m 44 -252 l
+stroke
+newpath
+44 -252 m 45 -252 l
+stroke
+newpath
+45 -252 m 45 -253 l
+stroke
+newpath
+45 -253 m 45 -253 l
+stroke
+newpath
+45 -253 m 45 -253 l
+stroke
+newpath
+45 -253 m 45 -253 l
+stroke
+newpath
+45 -253 m 45 -254 l
+stroke
+newpath
+45 -254 m 46 -254 l
+stroke
+newpath
+46 -254 m 46 -254 l
+stroke
+newpath
+46 -254 m 46 -254 l
+stroke
+newpath
+46 -254 m 46 -254 l
+stroke
+newpath
+46 -254 m 46 -254 l
+stroke
+newpath
+46 -254 m 46 -254 l
+stroke
+newpath
+46 -254 m 46 -254 l
+stroke
+newpath
+46 -254 m 46 -255 l
+stroke
+newpath
+46 -255 m 46 -255 l
+stroke
+newpath
+46 -255 m 47 -255 l
+stroke
+newpath
+47 -255 m 47 -255 l
+stroke
+newpath
+47 -255 m 47 -255 l
+stroke
+newpath
+47 -255 m 47 -255 l
+stroke
+newpath
+47 -255 m 47 -255 l
+stroke
+newpath
+47 -255 m 47 -255 l
+stroke
+newpath
+47 -255 m 48 -255 l
+stroke
+newpath
+48 -255 m 48 -255 l
+stroke
+newpath
+48 -255 m 48 -255 l
+stroke
+newpath
+48 -255 m 48 -255 l
+stroke
+newpath
+48 -255 m 48 -256 l
+stroke
+newpath
+48 -256 m 48 -256 l
+stroke
+newpath
+48 -256 m 48 -256 l
+stroke
+newpath
+48 -256 m 48 -256 l
+stroke
+newpath
+48 -256 m 48 -256 l
+stroke
+newpath
+48 -256 m 49 -256 l
+stroke
+newpath
+49 -256 m 49 -256 l
+stroke
+newpath
+49 -256 m 49 -256 l
+stroke
+newpath
+49 -256 m 49 -256 l
+stroke
+newpath
+49 -256 m 49 -256 l
+stroke
+newpath
+49 -256 m 49 -256 l
+stroke
+newpath
+49 -256 m 50 -256 l
+stroke
+newpath
+50 -256 m 50 -256 l
+stroke
+newpath
+50 -256 m 50 -256 l
+stroke
+newpath
+50 -256 m 50 -256 l
+stroke
+newpath
+50 -256 m 50 -256 l
+stroke
+newpath
+50 -256 m 50 -257 l
+stroke
+newpath
+50 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 51 -257 l
+stroke
+newpath
+51 -257 m 52 -257 l
+stroke
+newpath
+52 -257 m 52 -257 l
+stroke
+newpath
+52 -257 m 52 -257 l
+stroke
+newpath
+52 -257 m 52 -257 l
+stroke
+newpath
+52 -257 m 52 -257 l
+stroke
+newpath
+52 -257 m 52 -257 l
+stroke
+newpath
+52 -257 m 53 -257 l
+stroke
+newpath
+53 -257 m 53 -257 l
+stroke
+newpath
+53 -257 m 53 -257 l
+stroke
+newpath
+53 -257 m 53 -257 l
+stroke
+newpath
+53 -257 m 53 -257 l
+stroke
+newpath
+53 -257 m 53 -257 l
+stroke
+newpath
+53 -257 m 53 -257 l
+stroke
+newpath
+53 -257 m 53 -257 l
+stroke
+newpath
+53 -257 m 54 -257 l
+stroke
+newpath
+54 -257 m 54 -257 l
+stroke
+newpath
+54 -257 m 54 -258 l
+stroke
+newpath
+54 -258 m 54 -258 l
+stroke
+newpath
+54 -258 m 54 -258 l
+stroke
+newpath
+54 -258 m 54 -258 l
+stroke
+newpath
+54 -258 m 55 -258 l
+stroke
+newpath
+55 -258 m 55 -258 l
+stroke
+newpath
+55 -258 m 55 -258 l
+stroke
+newpath
+55 -258 m 55 -258 l
+stroke
+newpath
+55 -258 m 55 -258 l
+stroke
+newpath
+55 -258 m 55 -258 l
+stroke
+newpath
+55 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 56 -258 l
+stroke
+newpath
+56 -258 m 57 -258 l
+stroke
+newpath
+57 -258 m 57 -258 l
+stroke
+newpath
+57 -258 m 57 -258 l
+stroke
+newpath
+57 -258 m 57 -258 l
+stroke
+newpath
+57 -258 m 57 -258 l
+stroke
+newpath
+57 -258 m 57 -258 l
+stroke
+newpath
+57 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 58 -258 l
+stroke
+newpath
+58 -258 m 59 -258 l
+stroke
+newpath
+59 -258 m 59 -258 l
+stroke
+newpath
+59 -258 m 59 -258 l
+stroke
+newpath
+59 -258 m 59 -258 l
+stroke
+newpath
+59 -258 m 59 -258 l
+stroke
+newpath
+59 -258 m 59 -258 l
+stroke
+newpath
+59 -258 m 60 -258 l
+stroke
+newpath
+60 -258 m 60 -258 l
+stroke
+newpath
+60 -258 m 60 -258 l
+stroke
+newpath
+60 -258 m 60 -258 l
+stroke
+newpath
+60 -258 m 60 -258 l
+stroke
+newpath
+60 -258 m 60 -258 l
+stroke
+newpath
+60 -258 m 61 -258 l
+stroke
+newpath
+61 -258 m 61 -258 l
+stroke
+newpath
+61 -258 m 61 -258 l
+stroke
+newpath
+61 -258 m 61 -258 l
+stroke
+newpath
+61 -258 m 61 -258 l
+stroke
+newpath
+61 -258 m 61 -259 l
+stroke
+newpath
+61 -259 m 61 -259 l
+stroke
+newpath
+61 -259 m 61 -259 l
+stroke
+newpath
+61 -259 m 61 -259 l
+stroke
+newpath
+61 -259 m 62 -259 l
+stroke
+newpath
+62 -259 m 62 -259 l
+stroke
+newpath
+62 -259 m 62 -259 l
+stroke
+newpath
+62 -259 m 62 -259 l
+stroke
+newpath
+62 -259 m 62 -259 l
+stroke
+newpath
+62 -259 m 63 -259 l
+stroke
+newpath
+63 -259 m 63 -259 l
+stroke
+newpath
+63 -259 m 63 -259 l
+stroke
+newpath
+63 -259 m 63 -259 l
+stroke
+newpath
+63 -259 m 63 -259 l
+stroke
+newpath
+63 -259 m 63 -259 l
+stroke
+newpath
+63 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 64 -259 l
+stroke
+newpath
+64 -259 m 65 -259 l
+stroke
+newpath
+65 -259 m 65 -259 l
+stroke
+newpath
+65 -259 m 65 -259 l
+stroke
+newpath
+65 -259 m 65 -259 l
+stroke
+newpath
+65 -259 m 65 -259 l
+stroke
+newpath
+65 -259 m 65 -259 l
+stroke
+newpath
+65 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 66 -259 l
+stroke
+newpath
+66 -259 m 67 -259 l
+stroke
+newpath
+67 -259 m 67 -259 l
+stroke
+newpath
+67 -259 m 67 -259 l
+stroke
+newpath
+67 -259 m 67 -259 l
+stroke
+newpath
+67 -259 m 67 -259 l
+stroke
+newpath
+67 -259 m 67 -259 l
+stroke
+newpath
+67 -259 m 68 -259 l
+stroke
+newpath
+68 -259 m 68 -259 l
+stroke
+newpath
+68 -259 m 68 -259 l
+stroke
+newpath
+68 -259 m 68 -259 l
+stroke
+newpath
+68 -259 m 68 -259 l
+stroke
+newpath
+68 -259 m 68 -259 l
+stroke
+newpath
+68 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 69 -259 l
+stroke
+newpath
+69 -259 m 70 -259 l
+stroke
+newpath
+70 -259 m 70 -259 l
+stroke
+newpath
+70 -259 m 70 -259 l
+stroke
+newpath
+70 -259 m 70 -259 l
+stroke
+newpath
+70 -259 m 70 -259 l
+stroke
+newpath
+70 -259 m 70 -259 l
+stroke
+newpath
+70 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 71 -259 l
+stroke
+newpath
+71 -259 m 72 -259 l
+stroke
+newpath
+72 -259 m 72 -259 l
+stroke
+newpath
+72 -259 m 72 -259 l
+stroke
+newpath
+72 -259 m 72 -259 l
+stroke
+newpath
+72 -259 m 72 -259 l
+stroke
+newpath
+72 -259 m 73 -259 l
+stroke
+newpath
+73 -259 m 73 -259 l
+stroke
+newpath
+73 -259 m 73 -259 l
+stroke
+newpath
+73 -259 m 73 -259 l
+stroke
+newpath
+73 -259 m 73 -259 l
+stroke
+newpath
+73 -259 m 73 -259 l
+stroke
+newpath
+73 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 74 -259 l
+stroke
+newpath
+74 -259 m 75 -259 l
+stroke
+newpath
+75 -259 m 75 -259 l
+stroke
+newpath
+75 -259 m 75 -259 l
+stroke
+newpath
+75 -259 m 75 -259 l
+stroke
+newpath
+75 -259 m 75 -259 l
+stroke
+newpath
+75 -259 m 75 -259 l
+stroke
+newpath
+75 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 76 -259 l
+stroke
+newpath
+76 -259 m 77 -259 l
+stroke
+newpath
+77 -259 m 77 -259 l
+stroke
+newpath
+77 -259 m 77 -259 l
+stroke
+newpath
+77 -259 m 77 -259 l
+stroke
+newpath
+77 -259 m 77 -259 l
+stroke
+newpath
+77 -259 m 77 -259 l
+stroke
+newpath
+77 -259 m 78 -259 l
+stroke
+newpath
+78 -259 m 78 -259 l
+stroke
+newpath
+78 -259 m 78 -259 l
+stroke
+newpath
+78 -259 m 78 -259 l
+stroke
+newpath
+78 -259 m 78 -259 l
+stroke
+newpath
+78 -259 m 78 -259 l
+stroke
+newpath
+78 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 79 -259 l
+stroke
+newpath
+79 -259 m 80 -259 l
+stroke
+newpath
+80 -259 m 80 -259 l
+stroke
+newpath
+80 -259 m 80 -259 l
+stroke
+newpath
+80 -259 m 80 -259 l
+stroke
+newpath
+80 -259 m 80 -259 l
+stroke
+newpath
+80 -259 m 80 -259 l
+stroke
+newpath
+80 -259 m 81 -259 l
+stroke
+newpath
+81 -259 m 81 -259 l
+stroke
+newpath
+81 -259 m 81 -259 l
+stroke
+newpath
+81 -259 m 81 -259 l
+stroke
+newpath
+81 -259 m 81 -259 l
+stroke
+newpath
+81 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 82 -259 l
+stroke
+newpath
+82 -259 m 83 -259 l
+stroke
+newpath
+83 -259 m 83 -259 l
+stroke
+newpath
+83 -259 m 83 -259 l
+stroke
+newpath
+83 -259 m 83 -259 l
+stroke
+newpath
+83 -259 m 83 -259 l
+stroke
+newpath
+83 -259 m 83 -259 l
+stroke
+newpath
+83 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 84 -259 l
+stroke
+newpath
+84 -259 m 85 -259 l
+stroke
+newpath
+85 -259 m 85 -259 l
+stroke
+newpath
+85 -259 m 85 -259 l
+stroke
+newpath
+85 -259 m 85 -259 l
+stroke
+newpath
+85 -259 m 85 -259 l
+stroke
+newpath
+85 -259 m 85 -259 l
+stroke
+newpath
+85 -259 m 86 -259 l
+stroke
+newpath
+86 -259 m 86 -259 l
+stroke
+newpath
+86 -259 m 86 -259 l
+stroke
+newpath
+86 -259 m 86 -259 l
+stroke
+newpath
+86 -259 m 86 -259 l
+stroke
+newpath
+86 -259 m 86 -259 l
+stroke
+newpath
+86 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 87 -259 l
+stroke
+newpath
+87 -259 m 88 -259 l
+stroke
+newpath
+88 -259 m 88 -259 l
+stroke
+newpath
+88 -259 m 88 -259 l
+stroke
+newpath
+88 -259 m 88 -259 l
+stroke
+newpath
+88 -259 m 88 -259 l
+stroke
+newpath
+88 -259 m 88 -259 l
+stroke
+newpath
+88 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 89 -259 l
+stroke
+newpath
+89 -259 m 90 -259 l
+stroke
+newpath
+90 -259 m 90 -259 l
+stroke
+newpath
+90 -259 m 90 -259 l
+stroke
+newpath
+90 -259 m 90 -259 l
+stroke
+newpath
+90 -259 m 90 -259 l
+stroke
+newpath
+90 -259 m 91 -259 l
+stroke
+newpath
+91 -259 m 91 -259 l
+stroke
+newpath
+91 -259 m 91 -259 l
+stroke
+newpath
+91 -259 m 91 -259 l
+stroke
+newpath
+91 -259 m 91 -259 l
+stroke
+newpath
+91 -259 m 91 -259 l
+stroke
+newpath
+91 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 92 -259 l
+stroke
+newpath
+92 -259 m 93 -259 l
+stroke
+newpath
+93 -259 m 93 -259 l
+stroke
+newpath
+93 -259 m 93 -259 l
+stroke
+newpath
+93 -259 m 93 -259 l
+stroke
+newpath
+93 -259 m 93 -259 l
+stroke
+newpath
+93 -259 m 93 -259 l
+stroke
+newpath
+93 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 94 -259 l
+stroke
+newpath
+94 -259 m 95 -258 l
+stroke
+newpath
+95 -258 m 95 -258 l
+stroke
+newpath
+95 -258 m 95 -258 l
+stroke
+newpath
+95 -258 m 95 -258 l
+stroke
+newpath
+95 -258 m 95 -258 l
+stroke
+newpath
+95 -258 m 95 -258 l
+stroke
+newpath
+95 -258 m 96 -258 l
+stroke
+newpath
+96 -258 m 96 -258 l
+stroke
+newpath
+96 -258 m 96 -258 l
+stroke
+newpath
+96 -258 m 96 -258 l
+stroke
+newpath
+96 -258 m 96 -258 l
+stroke
+newpath
+96 -258 m 96 -258 l
+stroke
+newpath
+96 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 97 -258 l
+stroke
+newpath
+97 -258 m 98 -258 l
+stroke
+newpath
+98 -258 m 98 -258 l
+stroke
+newpath
+98 -258 m 98 -257 l
+stroke
+newpath
+98 -257 m 98 -257 l
+stroke
+newpath
+98 -257 m 98 -257 l
+stroke
+newpath
+98 -257 m 98 -257 l
+stroke
+newpath
+98 -257 m 99 -257 l
+stroke
+newpath
+99 -257 m 99 -257 l
+stroke
+newpath
+99 -257 m 99 -257 l
+stroke
+newpath
+99 -257 m 99 -257 l
+stroke
+newpath
+99 -257 m 99 -257 l
+stroke
+newpath
+99 -257 m 99 -257 l
+stroke
+newpath
+99 -257 m 100 -256 l
+stroke
+newpath
+100 -256 m 100 -256 l
+stroke
+newpath
+100 -256 m 100 -256 l
+stroke
+newpath
+100 -256 m 100 -256 l
+stroke
+newpath
+100 -256 m 100 -256 l
+stroke
+newpath
+100 -256 m 100 -256 l
+stroke
+newpath
+100 -256 m 100 -256 l
+stroke
+newpath
+100 -256 m 100 -255 l
+stroke
+newpath
+100 -255 m 101 -255 l
+stroke
+newpath
+101 -255 m 101 -255 l
+stroke
+newpath
+101 -255 m 101 -255 l
+stroke
+newpath
+101 -255 m 101 -254 l
+stroke
+newpath
+101 -254 m 101 -254 l
+stroke
+newpath
+101 -254 m 101 -254 l
+stroke
+newpath
+101 -254 m 102 -254 l
+stroke
+newpath
+102 -254 m 102 -253 l
+stroke
+newpath
+102 -253 m 102 -253 l
+stroke
+newpath
+102 -253 m 102 -252 l
+stroke
+newpath
+102 -252 m 102 -252 l
+stroke
+newpath
+102 -252 m 102 -252 l
+stroke
+newpath
+102 -252 m 102 -252 l
+stroke
+newpath
+102 -252 m 102 -251 l
+stroke
+newpath
+102 -251 m 102 -251 l
+stroke
+newpath
+102 -251 m 103 -251 l
+stroke
+newpath
+103 -251 m 103 -250 l
+stroke
+newpath
+103 -250 m 103 -250 l
+stroke
+newpath
+103 -250 m 103 -250 l
+stroke
+newpath
+103 -250 m 103 -250 l
+stroke
+newpath
+103 -250 m 103 -250 l
+stroke
+newpath
+103 -250 m 104 -250 l
+stroke
+newpath
+104 -250 m 104 -250 l
+stroke
+newpath
+104 -250 m 104 -250 l
+stroke
+newpath
+104 -250 m 104 -250 l
+stroke
+newpath
+104 -250 m 104 -250 l
+stroke
+newpath
+104 -250 m 104 -250 l
+stroke
+newpath
+104 -250 m 105 -250 l
+stroke
+newpath
+105 -250 m 105 -250 l
+stroke
+newpath
+105 -250 m 105 -250 l
+stroke
+newpath
+105 -250 m 105 -250 l
+stroke
+newpath
+105 -250 m 105 -250 l
+stroke
+newpath
+105 -250 m 105 -251 l
+stroke
+newpath
+105 -251 m 105 -251 l
+stroke
+newpath
+105 -251 m 105 -251 l
+stroke
+newpath
+105 -251 m 105 -251 l
+stroke
+newpath
+105 -251 m 106 -251 l
+stroke
+newpath
+106 -251 m 106 -251 l
+stroke
+newpath
+106 -251 m 106 -251 l
+stroke
+newpath
+106 -251 m 106 -252 l
+stroke
+newpath
+106 -252 m 106 -252 l
+stroke
+newpath
+106 -252 m 106 -252 l
+stroke
+newpath
+106 -252 m 107 -252 l
+stroke
+newpath
+107 -252 m 107 -252 l
+stroke
+newpath
+107 -252 m 107 -252 l
+stroke
+newpath
+107 -252 m 107 -252 l
+stroke
+newpath
+107 -252 m 107 -252 l
+stroke
+newpath
+107 -252 m 107 -252 l
+stroke
+newpath
+107 -252 m 107 -252 l
+stroke
+newpath
+107 -252 m 107 -252 l
+stroke
+newpath
+107 -252 m 107 -251 l
+stroke
+newpath
+107 -251 m 108 -251 l
+stroke
+newpath
+108 -251 m 108 -251 l
+stroke
+newpath
+108 -251 m 108 -251 l
+stroke
+newpath
+108 -251 m 108 -251 l
+stroke
+newpath
+108 -251 m 108 -251 l
+stroke
+newpath
+108 -251 m 108 -250 l
+stroke
+newpath
+108 -250 m 109 -250 l
+stroke
+newpath
+109 -250 m 109 -250 l
+stroke
+newpath
+109 -250 m 109 -249 l
+stroke
+newpath
+109 -249 m 109 -249 l
+stroke
+newpath
+109 -249 m 109 -249 l
+stroke
+newpath
+109 -249 m 110 -248 l
+stroke
+newpath
+110 -248 m 110 -248 l
+stroke
+newpath
+110 -248 m 110 -248 l
+stroke
+newpath
+110 -248 m 110 -247 l
+stroke
+newpath
+110 -247 m 110 -247 l
+stroke
+newpath
+110 -247 m 110 -246 l
+stroke
+newpath
+110 -246 m 110 -246 l
+stroke
+newpath
+110 -246 m 110 -245 l
+stroke
+newpath
+110 -245 m 110 -245 l
+stroke
+newpath
+110 -245 m 111 -245 l
+stroke
+newpath
+111 -245 m 111 -244 l
+stroke
+newpath
+111 -244 m 111 -244 l
+stroke
+newpath
+111 -244 m 111 -244 l
+stroke
+newpath
+111 -244 m 111 -244 l
+stroke
+newpath
+111 -244 m 111 -244 l
+stroke
+newpath
+111 -244 m 112 -243 l
+stroke
+newpath
+112 -243 m 112 -244 l
+stroke
+newpath
+112 -244 m 112 -244 l
+stroke
+newpath
+112 -244 m 112 -244 l
+stroke
+newpath
+112 -244 m 112 -244 l
+stroke
+newpath
+112 -244 m 112 -244 l
+stroke
+newpath
+112 -244 m 112 -245 l
+stroke
+newpath
+112 -245 m 112 -245 l
+stroke
+newpath
+112 -245 m 112 -246 l
+stroke
+newpath
+112 -246 m 113 -246 l
+stroke
+newpath
+113 -246 m 113 -246 l
+stroke
+newpath
+113 -246 m 113 -247 l
+stroke
+newpath
+113 -247 m 113 -247 l
+stroke
+newpath
+113 -247 m 113 -248 l
+stroke
+newpath
+113 -248 m 113 -248 l
+stroke
+newpath
+113 -248 m 114 -249 l
+stroke
+newpath
+114 -249 m 114 -249 l
+stroke
+newpath
+114 -249 m 114 -250 l
+stroke
+newpath
+114 -250 m 114 -250 l
+stroke
+newpath
+114 -250 m 114 -251 l
+stroke
+newpath
+114 -251 m 114 -251 l
+stroke
+newpath
+114 -251 m 115 -251 l
+stroke
+newpath
+115 -251 m 115 -252 l
+stroke
+newpath
+115 -252 m 115 -252 l
+stroke
+newpath
+115 -252 m 115 -253 l
+stroke
+newpath
+115 -253 m 115 -253 l
+stroke
+newpath
+115 -253 m 115 -254 l
+stroke
+newpath
+115 -254 m 115 -254 l
+stroke
+newpath
+115 -254 m 115 -254 l
+stroke
+newpath
+115 -254 m 115 -254 l
+stroke
+newpath
+115 -254 m 116 -255 l
+stroke
+newpath
+116 -255 m 116 -255 l
+stroke
+newpath
+116 -255 m 116 -255 l
+stroke
+newpath
+116 -255 m 116 -255 l
+stroke
+newpath
+116 -255 m 116 -255 l
+stroke
+newpath
+116 -255 m 116 -256 l
+stroke
+newpath
+116 -256 m 117 -256 l
+stroke
+newpath
+117 -256 m 117 -256 l
+stroke
+newpath
+117 -256 m 117 -256 l
+stroke
+newpath
+117 -256 m 117 -256 l
+stroke
+newpath
+117 -256 m 117 -256 l
+stroke
+newpath
+117 -256 m 117 -256 l
+stroke
+newpath
+117 -256 m 117 -257 l
+stroke
+newpath
+117 -257 m 117 -257 l
+stroke
+newpath
+117 -257 m 117 -257 l
+stroke
+newpath
+117 -257 m 118 -257 l
+stroke
+newpath
+118 -257 m 118 -257 l
+stroke
+newpath
+118 -257 m 118 -257 l
+stroke
+newpath
+118 -257 m 118 -257 l
+stroke
+newpath
+118 -257 m 118 -257 l
+stroke
+newpath
+118 -257 m 119 -257 l
+stroke
+newpath
+119 -257 m 119 -257 l
+stroke
+newpath
+119 -257 m 119 -258 l
+stroke
+newpath
+119 -258 m 119 -258 l
+stroke
+newpath
+119 -258 m 119 -258 l
+stroke
+newpath
+119 -258 m 119 -258 l
+stroke
+newpath
+119 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 120 -258 l
+stroke
+newpath
+120 -258 m 121 -258 l
+stroke
+newpath
+121 -258 m 121 -258 l
+stroke
+newpath
+121 -258 m 121 -258 l
+stroke
+newpath
+121 -258 m 121 -258 l
+stroke
+newpath
+121 -258 m 121 -258 l
+stroke
+newpath
+121 -258 m 121 -258 l
+stroke
+newpath
+121 -258 m 122 -258 l
+stroke
+newpath
+122 -258 m 122 -258 l
+stroke
+newpath
+122 -258 m 122 -259 l
+stroke
+newpath
+122 -259 m 122 -259 l
+stroke
+newpath
+122 -259 m 122 -259 l
+stroke
+newpath
+122 -259 m 122 -259 l
+stroke
+newpath
+122 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 123 -259 l
+stroke
+newpath
+123 -259 m 124 -259 l
+stroke
+newpath
+124 -259 m 124 -259 l
+stroke
+newpath
+124 -259 m 124 -259 l
+stroke
+newpath
+124 -259 m 124 -259 l
+stroke
+newpath
+124 -259 m 124 -259 l
+stroke
+newpath
+124 -259 m 124 -259 l
+stroke
+newpath
+124 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 125 -259 l
+stroke
+newpath
+125 -259 m 126 -259 l
+stroke
+newpath
+126 -259 m 126 -259 l
+stroke
+newpath
+126 -259 m 126 -259 l
+stroke
+newpath
+126 -259 m 126 -259 l
+stroke
+newpath
+126 -259 m 126 -259 l
+stroke
+newpath
+126 -259 m 126 -259 l
+stroke
+newpath
+126 -259 m 127 -259 l
+stroke
+newpath
+127 -259 m 127 -259 l
+stroke
+newpath
+127 -259 m 127 -259 l
+stroke
+newpath
+127 -259 m 127 -259 l
+stroke
+newpath
+127 -259 m 127 -259 l
+stroke
+newpath
+127 -259 m 127 -259 l
+stroke
+newpath
+127 -259 m 128 -259 l
+stroke
+newpath
+128 -259 m 128 -259 l
+stroke
+newpath
+128 -259 m 128 -259 l
+stroke
+newpath
+128 -259 m 128 -259 l
+stroke
+newpath
+128 -259 m 128 -259 l
+stroke
+newpath
+128 -259 m 128 -259 l
+stroke
+newpath
+128 -259 m 128 -259 l
+stroke
+newpath
+128 -259 m 128 -259 l
+stroke
+newpath
+128 -259 m 129 -259 l
+stroke
+newpath
+129 -259 m 129 -259 l
+stroke
+newpath
+129 -259 m 129 -259 l
+stroke
+newpath
+129 -259 m 129 -259 l
+stroke
+newpath
+129 -259 m 129 -259 l
+stroke
+newpath
+129 -259 m 129 -259 l
+stroke
+newpath
+129 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 130 -259 l
+stroke
+newpath
+130 -259 m 131 -259 l
+stroke
+newpath
+131 -259 m 131 -259 l
+stroke
+newpath
+131 -259 m 131 -259 l
+stroke
+newpath
+131 -259 m 131 -259 l
+stroke
+newpath
+131 -259 m 131 -259 l
+stroke
+newpath
+131 -259 m 131 -259 l
+stroke
+newpath
+131 -259 m 132 -259 l
+stroke
+newpath
+132 -259 m 132 -259 l
+stroke
+newpath
+132 -259 m 132 -259 l
+stroke
+newpath
+132 -259 m 132 -259 l
+stroke
+newpath
+132 -259 m 132 -259 l
+stroke
+newpath
+132 -259 m 132 -259 l
+stroke
+newpath
+132 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 133 -259 l
+stroke
+newpath
+133 -259 m 134 -259 l
+stroke
+newpath
+134 -259 m 134 -259 l
+stroke
+newpath
+134 -259 m 134 -259 l
+stroke
+newpath
+134 -259 m 134 -259 l
+stroke
+newpath
+134 -259 m 134 -259 l
+stroke
+newpath
+134 -259 m 134 -259 l
+stroke
+newpath
+134 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 135 -259 l
+stroke
+newpath
+135 -259 m 136 -259 l
+stroke
+newpath
+136 -259 m 136 -259 l
+stroke
+newpath
+136 -259 m 136 -259 l
+stroke
+newpath
+136 -259 m 136 -259 l
+stroke
+newpath
+136 -259 m 136 -259 l
+stroke
+newpath
+136 -259 m 136 -259 l
+stroke
+newpath
+136 -259 m 137 -259 l
+stroke
+newpath
+137 -259 m 137 -259 l
+stroke
+newpath
+137 -259 m 137 -259 l
+stroke
+newpath
+137 -259 m 137 -259 l
+stroke
+newpath
+137 -259 m 137 -259 l
+stroke
+newpath
+137 -259 m 138 -259 l
+stroke
+newpath
+138 -259 m 138 -259 l
+stroke
+newpath
+138 -259 m 138 -259 l
+stroke
+newpath
+138 -259 m 138 -259 l
+stroke
+newpath
+138 -259 m 138 -259 l
+stroke
+newpath
+138 -259 m 138 -259 l
+stroke
+newpath
+138 -259 m 138 -259 l
+stroke
+newpath
+138 -259 m 138 -260 l
+stroke
+newpath
+138 -260 m 138 -260 l
+stroke
+newpath
+138 -260 m 139 -260 l
+stroke
+newpath
+139 -260 m 139 -260 l
+stroke
+newpath
+139 -260 m 139 -260 l
+stroke
+newpath
+139 -260 m 139 -260 l
+stroke
+newpath
+139 -260 m 139 -260 l
+stroke
+newpath
+139 -260 m 139 -260 l
+stroke
+newpath
+139 -260 m 140 -260 l
+stroke
+newpath
+140 -260 m 140 -260 l
+stroke
+newpath
+140 -260 m 140 -260 l
+stroke
+newpath
+140 -260 m 140 -260 l
+stroke
+newpath
+140 -260 m 140 -260 l
+stroke
+newpath
+140 -260 m 140 -260 l
+stroke
+newpath
+140 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 141 -260 l
+stroke
+newpath
+141 -260 m 142 -260 l
+stroke
+newpath
+142 -260 m 142 -260 l
+stroke
+newpath
+142 -260 m 142 -260 l
+stroke
+newpath
+142 -260 m 142 -260 l
+stroke
+newpath
+142 -260 m 142 -260 l
+stroke
+newpath
+142 -260 m 142 -260 l
+stroke
+newpath
+142 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 143 -260 l
+stroke
+newpath
+143 -260 m 144 -260 l
+stroke
+newpath
+144 -260 m 144 -260 l
+stroke
+newpath
+144 -260 m 144 -260 l
+stroke
+newpath
+144 -260 m 144 -260 l
+stroke
+newpath
+144 -260 m 144 -260 l
+stroke
+newpath
+144 -260 m 144 -260 l
+stroke
+newpath
+144 -260 m 145 -260 l
+stroke
+newpath
+145 -260 m 145 -260 l
+stroke
+newpath
+145 -260 m 145 -260 l
+stroke
+newpath
+145 -260 m 145 -260 l
+stroke
+newpath
+145 -260 m 145 -260 l
+stroke
+newpath
+145 -260 m 145 -260 l
+stroke
+newpath
+145 -260 m 146 -260 l
+stroke
+newpath
+146 -260 m 146 -260 l
+stroke
+newpath
+146 -260 m 146 -260 l
+stroke
+newpath
+146 -260 m 146 -260 l
+stroke
+newpath
+146 -260 m 146 -260 l
+stroke
+newpath
+146 -260 m 146 -260 l
+stroke
+newpath
+146 -260 m 146 -260 l
+stroke
+newpath
+146 -260 m 146 -260 l
+stroke
+newpath
+146 -260 m 147 -260 l
+stroke
+newpath
+147 -260 m 147 -260 l
+stroke
+newpath
+147 -260 m 147 -260 l
+stroke
+newpath
+147 -260 m 147 -260 l
+stroke
+newpath
+147 -260 m 147 -260 l
+stroke
+newpath
+147 -260 m 147 -260 l
+stroke
+newpath
+147 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 148 -260 l
+stroke
+newpath
+148 -260 m 149 -260 l
+stroke
+newpath
+149 -260 m 149 -260 l
+stroke
+newpath
+149 -260 m 149 -260 l
+stroke
+newpath
+149 -260 m 149 -260 l
+stroke
+newpath
+149 -260 m 149 -260 l
+stroke
+newpath
+149 -260 m 149 -260 l
+stroke
+newpath
+149 -260 m 150 -260 l
+stroke
+newpath
+150 -260 m 150 -260 l
+stroke
+newpath
+150 -260 m 150 -260 l
+stroke
+newpath
+150 -260 m 150 -260 l
+stroke
+newpath
+150 -260 m 150 -260 l
+stroke
+newpath
+150 -260 m 150 -260 l
+stroke
+newpath
+150 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 151 -260 l
+stroke
+newpath
+151 -260 m 152 -260 l
+stroke
+newpath
+152 -260 m 152 -260 l
+stroke
+newpath
+152 -260 m 152 -260 l
+stroke
+newpath
+152 -260 m 152 -260 l
+stroke
+newpath
+152 -260 m 152 -260 l
+stroke
+newpath
+152 -260 m 152 -260 l
+stroke
+newpath
+152 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 153 -260 l
+stroke
+newpath
+153 -260 m 154 -260 l
+stroke
+newpath
+154 -260 m 154 -260 l
+stroke
+newpath
+154 -260 m 154 -260 l
+stroke
+newpath
+154 -260 m 154 -260 l
+stroke
+newpath
+154 -260 m 154 -260 l
+stroke
+newpath
+154 -260 m 154 -260 l
+stroke
+newpath
+154 -260 m 155 -260 l
+stroke
+newpath
+155 -260 m 155 -260 l
+stroke
+newpath
+155 -260 m 155 -260 l
+stroke
+newpath
+155 -260 m 155 -260 l
+stroke
+newpath
+155 -260 m 155 -260 l
+stroke
+newpath
+155 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 156 -260 l
+stroke
+newpath
+156 -260 m 157 -260 l
+stroke
+newpath
+157 -260 m 157 -260 l
+stroke
+newpath
+157 -260 m 157 -260 l
+stroke
+newpath
+157 -260 m 157 -260 l
+stroke
+newpath
+157 -260 m 157 -260 l
+stroke
+newpath
+157 -260 m 157 -260 l
+stroke
+newpath
+157 -260 m 158 -260 l
+stroke
+newpath
+158 -260 m 158 -259 l
+stroke
+newpath
+158 -259 m 158 -259 l
+stroke
+newpath
+158 -259 m 158 -259 l
+stroke
+newpath
+158 -259 m 158 -259 l
+stroke
+newpath
+158 -259 m 158 -259 l
+stroke
+newpath
+158 -259 m 158 -259 l
+stroke
+newpath
+158 -259 m 158 -259 l
+stroke
+newpath
+158 -259 m 158 -259 l
+stroke
+newpath
+158 -259 m 159 -259 l
+stroke
+newpath
+159 -259 m 159 -259 l
+stroke
+newpath
+159 -259 m 159 -259 l
+stroke
+newpath
+159 -259 m 159 -259 l
+stroke
+newpath
+159 -259 m 159 -259 l
+stroke
+newpath
+159 -259 m 159 -259 l
+stroke
+newpath
+159 -259 m 160 -259 l
+stroke
+newpath
+160 -259 m 160 -259 l
+stroke
+newpath
+160 -259 m 160 -259 l
+stroke
+newpath
+160 -259 m 160 -259 l
+stroke
+newpath
+160 -259 m 160 -259 l
+stroke
+newpath
+160 -259 m 160 -259 l
+stroke
+newpath
+160 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 161 -259 l
+stroke
+newpath
+161 -259 m 162 -259 l
+stroke
+newpath
+162 -259 m 162 -259 l
+stroke
+newpath
+162 -259 m 162 -259 l
+stroke
+newpath
+162 -259 m 162 -259 l
+stroke
+newpath
+162 -259 m 162 -259 l
+stroke
+newpath
+162 -259 m 162 -259 l
+stroke
+newpath
+162 -259 m 163 -259 l
+stroke
+newpath
+163 -259 m 163 -259 l
+stroke
+newpath
+163 -259 m 163 -259 l
+stroke
+newpath
+163 -259 m 163 -259 l
+stroke
+newpath
+163 -259 m 163 -259 l
+stroke
+newpath
+163 -259 m 163 -259 l
+stroke
+newpath
+163 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 164 -259 l
+stroke
+newpath
+164 -259 m 165 -259 l
+stroke
+newpath
+165 -259 m 165 -259 l
+stroke
+newpath
+165 -259 m 165 -259 l
+stroke
+newpath
+165 -259 m 165 -259 l
+stroke
+newpath
+165 -259 m 165 -259 l
+stroke
+newpath
+165 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 166 -259 l
+stroke
+newpath
+166 -259 m 167 -259 l
+stroke
+newpath
+167 -259 m 167 -259 l
+stroke
+newpath
+167 -259 m 167 -259 l
+stroke
+newpath
+167 -259 m 167 -259 l
+stroke
+newpath
+167 -259 m 167 -259 l
+stroke
+newpath
+167 -259 m 167 -259 l
+stroke
+newpath
+167 -259 m 168 -259 l
+stroke
+newpath
+168 -259 m 168 -259 l
+stroke
+newpath
+168 -259 m 168 -259 l
+stroke
+newpath
+168 -259 m 168 -259 l
+stroke
+newpath
+168 -259 m 168 -259 l
+stroke
+newpath
+168 -259 m 168 -259 l
+stroke
+newpath
+168 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 169 -259 l
+stroke
+newpath
+169 -259 m 170 -259 l
+stroke
+newpath
+170 -259 m 170 -259 l
+stroke
+newpath
+170 -259 m 170 -259 l
+stroke
+newpath
+170 -259 m 170 -259 l
+stroke
+newpath
+170 -259 m 170 -259 l
+stroke
+newpath
+170 -259 m 170 -259 l
+stroke
+newpath
+170 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 171 -259 l
+stroke
+newpath
+171 -259 m 172 -259 l
+stroke
+newpath
+172 -259 m 172 -259 l
+stroke
+newpath
+172 -259 m 172 -259 l
+stroke
+newpath
+172 -259 m 172 -259 l
+stroke
+newpath
+172 -259 m 172 -259 l
+stroke
+newpath
+172 -259 m 172 -259 l
+stroke
+newpath
+172 -259 m 173 -259 l
+stroke
+newpath
+173 -259 m 173 -259 l
+stroke
+newpath
+173 -259 m 173 -259 l
+stroke
+newpath
+173 -259 m 173 -259 l
+stroke
+newpath
+173 -259 m 173 -259 l
+stroke
+newpath
+173 -259 m 173 -259 l
+stroke
+newpath
+173 -259 m 174 -259 l
+stroke
+newpath
+174 -259 m 174 -259 l
+stroke
+newpath
+174 -259 m 174 -259 l
+stroke
+newpath
+174 -259 m 174 -259 l
+stroke
+newpath
+174 -259 m 174 -259 l
+stroke
+newpath
+174 -259 m 174 -259 l
+stroke
+newpath
+174 -259 m 174 -259 l
+stroke
+newpath
+174 -259 m 174 -259 l
+stroke
+newpath
+174 -259 m 175 -259 l
+stroke
+newpath
+175 -259 m 175 -258 l
+stroke
+newpath
+175 -258 m 175 -258 l
+stroke
+newpath
+175 -258 m 175 -258 l
+stroke
+newpath
+175 -258 m 175 -258 l
+stroke
+newpath
+175 -258 m 175 -258 l
+stroke
+newpath
+175 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 176 -258 l
+stroke
+newpath
+176 -258 m 177 -258 l
+stroke
+newpath
+177 -258 m 177 -258 l
+stroke
+newpath
+177 -258 m 177 -258 l
+stroke
+newpath
+177 -258 m 177 -257 l
+stroke
+newpath
+177 -257 m 177 -257 l
+stroke
+newpath
+177 -257 m 177 -257 l
+stroke
+newpath
+177 -257 m 178 -257 l
+stroke
+newpath
+178 -257 m 178 -257 l
+stroke
+newpath
+178 -257 m 178 -257 l
+stroke
+newpath
+178 -257 m 178 -257 l
+stroke
+newpath
+178 -257 m 178 -257 l
+stroke
+newpath
+178 -257 m 178 -257 l
+stroke
+newpath
+178 -257 m 179 -256 l
+stroke
+newpath
+179 -256 m 179 -256 l
+stroke
+newpath
+179 -256 m 179 -256 l
+stroke
+newpath
+179 -256 m 179 -256 l
+stroke
+newpath
+179 -256 m 179 -256 l
+stroke
+newpath
+179 -256 m 179 -256 l
+stroke
+newpath
+179 -256 m 179 -256 l
+stroke
+newpath
+179 -256 m 179 -255 l
+stroke
+newpath
+179 -255 m 179 -255 l
+stroke
+newpath
+179 -255 m 180 -255 l
+stroke
+newpath
+180 -255 m 180 -255 l
+stroke
+newpath
+180 -255 m 180 -255 l
+stroke
+newpath
+180 -255 m 180 -255 l
+stroke
+newpath
+180 -255 m 180 -255 l
+stroke
+newpath
+180 -255 m 180 -255 l
+stroke
+newpath
+180 -255 m 181 -255 l
+stroke
+newpath
+181 -255 m 181 -255 l
+stroke
+newpath
+181 -255 m 181 -255 l
+stroke
+newpath
+181 -255 m 181 -255 l
+stroke
+newpath
+181 -255 m 181 -255 l
+stroke
+newpath
+181 -255 m 181 -255 l
+stroke
+newpath
+181 -255 m 182 -255 l
+stroke
+newpath
+182 -255 m 182 -255 l
+stroke
+newpath
+182 -255 m 182 -255 l
+stroke
+newpath
+182 -255 m 182 -255 l
+stroke
+newpath
+182 -255 m 182 -255 l
+stroke
+newpath
+182 -255 m 182 -255 l
+stroke
+newpath
+182 -255 m 182 -255 l
+stroke
+newpath
+182 -255 m 182 -256 l
+stroke
+newpath
+182 -256 m 182 -256 l
+stroke
+newpath
+182 -256 m 183 -256 l
+stroke
+newpath
+183 -256 m 183 -256 l
+stroke
+newpath
+183 -256 m 183 -256 l
+stroke
+newpath
+183 -256 m 183 -256 l
+stroke
+newpath
+183 -256 m 183 -256 l
+stroke
+newpath
+183 -256 m 184 -256 l
+stroke
+newpath
+184 -256 m 184 -256 l
+stroke
+newpath
+184 -256 m 184 -256 l
+stroke
+newpath
+184 -256 m 184 -256 l
+stroke
+newpath
+184 -256 m 184 -256 l
+stroke
+newpath
+184 -256 m 184 -256 l
+stroke
+newpath
+184 -256 m 184 -257 l
+stroke
+newpath
+184 -257 m 184 -257 l
+stroke
+newpath
+184 -257 m 184 -257 l
+stroke
+newpath
+184 -257 m 185 -257 l
+stroke
+newpath
+185 -257 m 185 -257 l
+stroke
+newpath
+185 -257 m 185 -257 l
+stroke
+newpath
+185 -257 m 185 -257 l
+stroke
+newpath
+185 -257 m 185 -257 l
+stroke
+newpath
+185 -257 m 185 -257 l
+stroke
+newpath
+185 -257 m 186 -257 l
+stroke
+newpath
+186 -257 m 186 -257 l
+stroke
+newpath
+186 -257 m 186 -257 l
+stroke
+newpath
+186 -257 m 186 -257 l
+stroke
+newpath
+186 -257 m 186 -257 l
+stroke
+newpath
+186 -257 m 186 -258 l
+stroke
+newpath
+186 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 187 -258 l
+stroke
+newpath
+187 -258 m 188 -258 l
+stroke
+newpath
+188 -258 m 188 -258 l
+stroke
+newpath
+188 -258 m 188 -258 l
+stroke
+newpath
+188 -258 m 188 -258 l
+stroke
+newpath
+188 -258 m 188 -258 l
+stroke
+newpath
+188 -258 m 188 -258 l
+stroke
+newpath
+188 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 189 -258 l
+stroke
+newpath
+189 -258 m 190 -258 l
+stroke
+newpath
+190 -258 m 190 -258 l
+stroke
+newpath
+190 -258 m 190 -258 l
+stroke
+newpath
+190 -258 m 190 -258 l
+stroke
+newpath
+190 -258 m 190 -258 l
+stroke
+newpath
+190 -258 m 190 -258 l
+stroke
+newpath
+190 -258 m 191 -258 l
+stroke
+newpath
+191 -258 m 191 -258 l
+stroke
+newpath
+191 -258 m 191 -258 l
+stroke
+newpath
+191 -258 m 191 -258 l
+stroke
+newpath
+191 -258 m 191 -258 l
+stroke
+newpath
+191 -258 m 191 -258 l
+stroke
+newpath
+191 -258 m 192 -258 l
+stroke
+newpath
+192 -258 m 192 -258 l
+stroke
+newpath
+192 -258 m 192 -258 l
+stroke
+newpath
+192 -258 m 192 -258 l
+stroke
+newpath
+192 -258 m 192 -258 l
+stroke
+newpath
+192 -258 m 192 -258 l
+stroke
+newpath
+192 -258 m 192 -258 l
+stroke
+newpath
+192 -258 m 192 -258 l
+stroke
+newpath
+192 -258 m 193 -258 l
+stroke
+newpath
+193 -258 m 193 -258 l
+stroke
+newpath
+193 -258 m 193 -258 l
+stroke
+newpath
+193 -258 m 193 -258 l
+stroke
+newpath
+193 -258 m 193 -258 l
+stroke
+newpath
+193 -258 m 193 -258 l
+stroke
+newpath
+193 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 194 -258 l
+stroke
+newpath
+194 -258 m 195 -258 l
+stroke
+newpath
+195 -258 m 195 -257 l
+stroke
+newpath
+195 -257 m 195 -257 l
+stroke
+newpath
+195 -257 m 195 -257 l
+stroke
+newpath
+195 -257 m 195 -257 l
+stroke
+newpath
+195 -257 m 195 -257 l
+stroke
+newpath
+195 -257 m 196 -257 l
+stroke
+newpath
+196 -257 m 196 -257 l
+stroke
+newpath
+196 -257 m 196 -257 l
+stroke
+newpath
+196 -257 m 196 -257 l
+stroke
+newpath
+196 -257 m 196 -257 l
+stroke
+newpath
+196 -257 m 196 -257 l
+stroke
+newpath
+196 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 197 -257 l
+stroke
+newpath
+197 -257 m 198 -257 l
+stroke
+newpath
+198 -257 m 198 -257 l
+stroke
+newpath
+198 -257 m 198 -257 l
+stroke
+newpath
+198 -257 m 198 -256 l
+stroke
+newpath
+198 -256 m 198 -256 l
+stroke
+newpath
+198 -256 m 198 -256 l
+stroke
+newpath
+198 -256 m 199 -256 l
+stroke
+newpath
+199 -256 m 199 -256 l
+stroke
+newpath
+199 -256 m 199 -256 l
+stroke
+newpath
+199 -256 m 199 -256 l
+stroke
+newpath
+199 -256 m 199 -256 l
+stroke
+newpath
+199 -256 m 199 -256 l
+stroke
+newpath
+199 -256 m 200 -256 l
+stroke
+newpath
+200 -256 m 200 -256 l
+stroke
+newpath
+200 -256 m 200 -256 l
+stroke
+newpath
+200 -256 m 200 -256 l
+stroke
+newpath
+200 -256 m 200 -255 l
+stroke
+newpath
+200 -255 m 200 -255 l
+stroke
+newpath
+200 -255 m 200 -255 l
+stroke
+newpath
+200 -255 m 200 -255 l
+stroke
+newpath
+200 -255 m 200 -255 l
+stroke
+newpath
+200 -255 m 201 -255 l
+stroke
+newpath
+201 -255 m 201 -255 l
+stroke
+newpath
+201 -255 m 201 -255 l
+stroke
+newpath
+201 -255 m 201 -255 l
+stroke
+newpath
+201 -255 m 201 -254 l
+stroke
+newpath
+201 -254 m 201 -254 l
+stroke
+newpath
+201 -254 m 202 -254 l
+stroke
+newpath
+202 -254 m 202 -254 l
+stroke
+newpath
+202 -254 m 202 -254 l
+stroke
+newpath
+202 -254 m 202 -254 l
+stroke
+newpath
+202 -254 m 202 -254 l
+stroke
+newpath
+202 -254 m 202 -253 l
+stroke
+newpath
+202 -253 m 202 -253 l
+stroke
+newpath
+202 -253 m 202 -253 l
+stroke
+newpath
+202 -253 m 203 -252 l
+stroke
+newpath
+203 -252 m 203 -252 l
+stroke
+newpath
+203 -252 m 203 -252 l
+stroke
+newpath
+203 -252 m 203 -252 l
+stroke
+newpath
+203 -252 m 203 -252 l
+stroke
+newpath
+203 -252 m 203 -251 l
+stroke
+newpath
+203 -251 m 204 -251 l
+stroke
+newpath
+204 -251 m 204 -251 l
+stroke
+newpath
+204 -251 m 204 -251 l
+stroke
+newpath
+204 -251 m 204 -250 l
+stroke
+newpath
+204 -250 m 204 -250 l
+stroke
+newpath
+204 -250 m 204 -250 l
+stroke
+newpath
+204 -250 m 205 -249 l
+stroke
+newpath
+205 -249 m 205 -249 l
+stroke
+newpath
+205 -249 m 205 -249 l
+stroke
+newpath
+205 -249 m 205 -248 l
+stroke
+newpath
+205 -248 m 205 -248 l
+stroke
+newpath
+205 -248 m 205 -247 l
+stroke
+newpath
+205 -247 m 205 -247 l
+stroke
+newpath
+205 -247 m 205 -246 l
+stroke
+newpath
+205 -246 m 205 -246 l
+stroke
+newpath
+205 -246 m 206 -245 l
+stroke
+newpath
+206 -245 m 206 -245 l
+stroke
+newpath
+206 -245 m 206 -244 l
+stroke
+newpath
+206 -244 m 206 -244 l
+stroke
+newpath
+206 -244 m 206 -243 l
+stroke
+newpath
+206 -243 m 206 -242 l
+stroke
+newpath
+206 -242 m 207 -241 l
+stroke
+newpath
+207 -241 m 207 -240 l
+stroke
+newpath
+207 -240 m 207 -239 l
+stroke
+newpath
+207 -239 m 207 -239 l
+stroke
+newpath
+207 -239 m 207 -238 l
+stroke
+newpath
+207 -238 m 207 -237 l
+stroke
+newpath
+207 -237 m 207 -236 l
+stroke
+newpath
+207 -236 m 207 -234 l
+stroke
+newpath
+207 -234 m 207 -233 l
+stroke
+newpath
+207 -233 m 208 -232 l
+stroke
+newpath
+208 -232 m 208 -231 l
+stroke
+newpath
+208 -231 m 208 -229 l
+stroke
+newpath
+208 -229 m 208 -227 l
+stroke
+newpath
+208 -227 m 208 -226 l
+stroke
+newpath
+208 -226 m 208 -224 l
+stroke
+newpath
+208 -224 m 209 -222 l
+stroke
+newpath
+209 -222 m 209 -221 l
+stroke
+newpath
+209 -221 m 209 -218 l
+stroke
+newpath
+209 -218 m 209 -216 l
+stroke
+newpath
+209 -216 m 209 -214 l
+stroke
+newpath
+209 -214 m 209 -212 l
+stroke
+newpath
+209 -212 m 210 -210 l
+stroke
+newpath
+210 -210 m 210 -207 l
+stroke
+newpath
+210 -207 m 210 -205 l
+stroke
+newpath
+210 -205 m 210 -202 l
+stroke
+newpath
+210 -202 m 210 -200 l
+stroke
+newpath
+210 -200 m 210 -198 l
+stroke
+newpath
+210 -198 m 210 -195 l
+stroke
+newpath
+210 -195 m 210 -193 l
+stroke
+newpath
+210 -193 m 210 -191 l
+stroke
+newpath
+210 -191 m 211 -190 l
+stroke
+newpath
+211 -190 m 211 -188 l
+stroke
+newpath
+211 -188 m 211 -187 l
+stroke
+newpath
+211 -187 m 211 -186 l
+stroke
+newpath
+211 -186 m 211 -186 l
+stroke
+newpath
+211 -186 m 212 -186 l
+stroke
+newpath
+212 -186 m 212 -186 l
+stroke
+newpath
+212 -186 m 212 -187 l
+stroke
+newpath
+212 -187 m 212 -187 l
+stroke
+newpath
+212 -187 m 212 -189 l
+stroke
+newpath
+212 -189 m 212 -190 l
+stroke
+newpath
+212 -190 m 212 -192 l
+stroke
+newpath
+212 -192 m 212 -194 l
+stroke
+newpath
+212 -194 m 212 -196 l
+stroke
+newpath
+212 -196 m 213 -199 l
+stroke
+newpath
+213 -199 m 213 -201 l
+stroke
+newpath
+213 -201 m 213 -203 l
+stroke
+newpath
+213 -203 m 213 -205 l
+stroke
+newpath
+213 -205 m 213 -208 l
+stroke
+newpath
+213 -208 m 213 -210 l
+stroke
+newpath
+213 -210 m 214 -213 l
+stroke
+newpath
+214 -213 m 214 -215 l
+stroke
+newpath
+214 -215 m 214 -217 l
+stroke
+newpath
+214 -217 m 214 -219 l
+stroke
+newpath
+214 -219 m 214 -221 l
+stroke
+newpath
+214 -221 m 214 -223 l
+stroke
+newpath
+214 -223 m 215 -225 l
+stroke
+newpath
+215 -225 m 215 -226 l
+stroke
+newpath
+215 -226 m 215 -228 l
+stroke
+newpath
+215 -228 m 215 -229 l
+stroke
+newpath
+215 -229 m 215 -231 l
+stroke
+newpath
+215 -231 m 215 -232 l
+stroke
+newpath
+215 -232 m 215 -234 l
+stroke
+newpath
+215 -234 m 215 -235 l
+stroke
+newpath
+215 -235 m 215 -236 l
+stroke
+newpath
+215 -236 m 216 -237 l
+stroke
+newpath
+216 -237 m 216 -238 l
+stroke
+newpath
+216 -238 m 216 -239 l
+stroke
+newpath
+216 -239 m 216 -240 l
+stroke
+newpath
+216 -240 m 216 -240 l
+stroke
+newpath
+216 -240 m 216 -241 l
+stroke
+newpath
+216 -241 m 217 -242 l
+stroke
+newpath
+217 -242 m 217 -243 l
+stroke
+newpath
+217 -243 m 217 -244 l
+stroke
+newpath
+217 -244 m 217 -244 l
+stroke
+newpath
+217 -244 m 217 -245 l
+stroke
+newpath
+217 -245 m 217 -245 l
+stroke
+newpath
+217 -245 m 217 -246 l
+stroke
+newpath
+217 -246 m 217 -246 l
+stroke
+newpath
+217 -246 m 217 -247 l
+stroke
+newpath
+217 -247 m 218 -247 l
+stroke
+newpath
+218 -247 m 218 -248 l
+stroke
+newpath
+218 -248 m 218 -248 l
+stroke
+newpath
+218 -248 m 218 -249 l
+stroke
+newpath
+218 -249 m 218 -249 l
+stroke
+newpath
+218 -249 m 218 -249 l
+stroke
+newpath
+218 -249 m 219 -250 l
+stroke
+newpath
+219 -250 m 219 -250 l
+stroke
+newpath
+219 -250 m 219 -250 l
+stroke
+newpath
+219 -250 m 219 -250 l
+stroke
+newpath
+219 -250 m 219 -251 l
+stroke
+newpath
+219 -251 m 219 -251 l
+stroke
+newpath
+219 -251 m 220 -251 l
+stroke
+newpath
+220 -251 m 220 -251 l
+stroke
+newpath
+220 -251 m 220 -252 l
+stroke
+newpath
+220 -252 m 220 -252 l
+stroke
+newpath
+220 -252 m 220 -252 l
+stroke
+newpath
+220 -252 m 220 -252 l
+stroke
+newpath
+220 -252 m 220 -252 l
+stroke
+newpath
+220 -252 m 220 -253 l
+stroke
+newpath
+220 -253 m 221 -253 l
+stroke
+newpath
+221 -253 m 221 -253 l
+stroke
+newpath
+221 -253 m 221 -254 l
+stroke
+newpath
+221 -254 m 221 -254 l
+stroke
+newpath
+221 -254 m 221 -254 l
+stroke
+newpath
+221 -254 m 221 -254 l
+stroke
+newpath
+221 -254 m 222 -254 l
+stroke
+newpath
+222 -254 m 222 -254 l
+stroke
+newpath
+222 -254 m 222 -254 l
+stroke
+newpath
+222 -254 m 222 -255 l
+stroke
+newpath
+222 -255 m 222 -255 l
+stroke
+newpath
+222 -255 m 222 -255 l
+stroke
+newpath
+222 -255 m 223 -255 l
+stroke
+newpath
+223 -255 m 223 -255 l
+stroke
+newpath
+223 -255 m 223 -255 l
+stroke
+newpath
+223 -255 m 223 -255 l
+stroke
+newpath
+223 -255 m 223 -255 l
+stroke
+newpath
+223 -255 m 223 -255 l
+stroke
+newpath
+223 -255 m 223 -255 l
+stroke
+newpath
+223 -255 m 223 -256 l
+stroke
+newpath
+223 -256 m 223 -256 l
+stroke
+newpath
+223 -256 m 224 -256 l
+stroke
+newpath
+224 -256 m 224 -256 l
+stroke
+newpath
+224 -256 m 224 -256 l
+stroke
+newpath
+224 -256 m 224 -256 l
+stroke
+newpath
+224 -256 m 224 -256 l
+stroke
+newpath
+224 -256 m 224 -256 l
+stroke
+newpath
+224 -256 m 225 -256 l
+stroke
+newpath
+225 -256 m 225 -256 l
+stroke
+newpath
+225 -256 m 225 -256 l
+stroke
+newpath
+225 -256 m 225 -256 l
+stroke
+newpath
+225 -256 m 225 -256 l
+stroke
+newpath
+225 -256 m 225 -256 l
+stroke
+newpath
+225 -256 m 225 -256 l
+stroke
+newpath
+225 -256 m 225 -256 l
+stroke
+newpath
+225 -256 m 225 -257 l
+stroke
+newpath
+225 -257 m 226 -257 l
+stroke
+newpath
+226 -257 m 226 -257 l
+stroke
+newpath
+226 -257 m 226 -257 l
+stroke
+newpath
+226 -257 m 226 -257 l
+stroke
+newpath
+226 -257 m 226 -257 l
+stroke
+newpath
+226 -257 m 226 -257 l
+stroke
+newpath
+226 -257 m 227 -257 l
+stroke
+newpath
+227 -257 m 227 -257 l
+stroke
+newpath
+227 -257 m 227 -257 l
+stroke
+newpath
+227 -257 m 227 -257 l
+stroke
+newpath
+227 -257 m 227 -257 l
+stroke
+newpath
+227 -257 m 227 -257 l
+stroke
+newpath
+227 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 228 -257 l
+stroke
+newpath
+228 -257 m 229 -257 l
+stroke
+newpath
+229 -257 m 229 -257 l
+stroke
+newpath
+229 -257 m 229 -257 l
+stroke
+newpath
+229 -257 m 229 -257 l
+stroke
+newpath
+229 -257 m 229 -257 l
+stroke
+newpath
+229 -257 m 229 -257 l
+stroke
+newpath
+229 -257 m 230 -257 l
+stroke
+newpath
+230 -257 m 230 -257 l
+stroke
+newpath
+230 -257 m 230 -257 l
+stroke
+newpath
+230 -257 m 230 -257 l
+stroke
+newpath
+230 -257 m 230 -257 l
+stroke
+newpath
+230 -257 m 230 -257 l
+stroke
+newpath
+230 -257 m 230 -257 l
+stroke
+newpath
+230 -257 m 230 -257 l
+stroke
+newpath
+230 -257 m 231 -257 l
+stroke
+newpath
+231 -257 m 231 -257 l
+stroke
+newpath
+231 -257 m 231 -257 l
+stroke
+newpath
+231 -257 m 231 -257 l
+stroke
+newpath
+231 -257 m 231 -257 l
+stroke
+newpath
+231 -257 m 231 -257 l
+stroke
+newpath
+231 -257 m 232 -257 l
+stroke
+newpath
+232 -257 m 232 -257 l
+stroke
+newpath
+232 -257 m 232 -257 l
+stroke
+newpath
+232 -257 m 232 -257 l
+stroke
+newpath
+232 -257 m 232 -257 l
+stroke
+newpath
+232 -257 m 232 -257 l
+stroke
+newpath
+232 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 233 -257 l
+stroke
+newpath
+233 -257 m 234 -257 l
+stroke
+newpath
+234 -257 m 234 -256 l
+stroke
+newpath
+234 -256 m 234 -256 l
+stroke
+newpath
+234 -256 m 234 -256 l
+stroke
+newpath
+234 -256 m 234 -256 l
+stroke
+newpath
+234 -256 m 234 -256 l
+stroke
+newpath
+234 -256 m 235 -256 l
+stroke
+newpath
+235 -256 m 235 -256 l
+stroke
+newpath
+235 -256 m 235 -256 l
+stroke
+newpath
+235 -256 m 235 -256 l
+stroke
+newpath
+235 -256 m 235 -256 l
+stroke
+newpath
+235 -256 m 235 -255 l
+stroke
+newpath
+235 -255 m 235 -255 l
+stroke
+newpath
+235 -255 m 235 -255 l
+stroke
+newpath
+235 -255 m 235 -255 l
+stroke
+newpath
+235 -255 m 236 -255 l
+stroke
+newpath
+236 -255 m 236 -255 l
+stroke
+newpath
+236 -255 m 236 -255 l
+stroke
+newpath
+236 -255 m 236 -254 l
+stroke
+newpath
+236 -254 m 236 -254 l
+stroke
+newpath
+236 -254 m 236 -254 l
+stroke
+newpath
+236 -254 m 237 -254 l
+stroke
+newpath
+237 -254 m 237 -254 l
+stroke
+newpath
+237 -254 m 237 -254 l
+stroke
+newpath
+237 -254 m 237 -254 l
+stroke
+newpath
+237 -254 m 237 -254 l
+stroke
+newpath
+237 -254 m 237 -254 l
+stroke
+newpath
+237 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 238 -254 l
+stroke
+newpath
+238 -254 m 239 -254 l
+stroke
+newpath
+239 -254 m 239 -255 l
+stroke
+newpath
+239 -255 m 239 -255 l
+stroke
+newpath
+239 -255 m 239 -255 l
+stroke
+newpath
+239 -255 m 239 -255 l
+stroke
+newpath
+239 -255 m 240 -255 l
+stroke
+newpath
+240 -255 m 240 -255 l
+stroke
+newpath
+240 -255 m 240 -255 l
+stroke
+newpath
+240 -255 m 240 -256 l
+stroke
+newpath
+240 -256 m 240 -256 l
+stroke
+newpath
+240 -256 m 240 -256 l
+stroke
+newpath
+240 -256 m 241 -256 l
+stroke
+newpath
+241 -256 m 241 -256 l
+stroke
+newpath
+241 -256 m 241 -256 l
+stroke
+newpath
+241 -256 m 241 -256 l
+stroke
+newpath
+241 -256 m 241 -256 l
+stroke
+newpath
+241 -256 m 241 -257 l
+stroke
+newpath
+241 -257 m 241 -257 l
+stroke
+newpath
+241 -257 m 241 -257 l
+stroke
+newpath
+241 -257 m 241 -257 l
+stroke
+newpath
+241 -257 m 242 -257 l
+stroke
+newpath
+242 -257 m 242 -257 l
+stroke
+newpath
+242 -257 m 242 -257 l
+stroke
+newpath
+242 -257 m 242 -257 l
+stroke
+newpath
+242 -257 m 242 -257 l
+stroke
+newpath
+242 -257 m 242 -257 l
+stroke
+newpath
+242 -257 m 243 -257 l
+stroke
+newpath
+243 -257 m 243 -257 l
+stroke
+newpath
+243 -257 m 243 -257 l
+stroke
+newpath
+243 -257 m 243 -257 l
+stroke
+newpath
+243 -257 m 243 -257 l
+stroke
+newpath
+243 -257 m 243 -257 l
+stroke
+newpath
+243 -257 m 243 -257 l
+stroke
+newpath
+243 -257 m 243 -258 l
+stroke
+newpath
+243 -258 m 243 -258 l
+stroke
+newpath
+243 -258 m 244 -258 l
+stroke
+newpath
+244 -258 m 244 -258 l
+stroke
+newpath
+244 -258 m 244 -258 l
+stroke
+newpath
+244 -258 m 244 -258 l
+stroke
+newpath
+244 -258 m 244 -258 l
+stroke
+newpath
+244 -258 m 244 -258 l
+stroke
+newpath
+244 -258 m 245 -258 l
+stroke
+newpath
+245 -258 m 245 -258 l
+stroke
+newpath
+245 -258 m 245 -258 l
+stroke
+newpath
+245 -258 m 245 -258 l
+stroke
+newpath
+245 -258 m 245 -258 l
+stroke
+newpath
+245 -258 m 245 -258 l
+stroke
+newpath
+245 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 246 -258 l
+stroke
+newpath
+246 -258 m 247 -258 l
+stroke
+newpath
+247 -258 m 247 -258 l
+stroke
+newpath
+247 -258 m 247 -258 l
+stroke
+newpath
+247 -258 m 247 -258 l
+stroke
+newpath
+247 -258 m 247 -258 l
+stroke
+newpath
+247 -258 m 247 -258 l
+stroke
+newpath
+247 -258 m 248 -258 l
+stroke
+newpath
+248 -258 m 248 -258 l
+stroke
+newpath
+248 -258 m 248 -258 l
+stroke
+newpath
+248 -258 m 248 -258 l
+stroke
+newpath
+248 -258 m 248 -258 l
+stroke
+newpath
+248 -258 m 248 -258 l
+stroke
+newpath
+248 -258 m 248 -258 l
+stroke
+newpath
+248 -258 m 248 -258 l
+stroke
+newpath
+248 -258 m 249 -258 l
+stroke
+newpath
+249 -258 m 249 -258 l
+stroke
+newpath
+249 -258 m 249 -258 l
+stroke
+newpath
+249 -258 m 249 -258 l
+stroke
+newpath
+249 -258 m 249 -258 l
+stroke
+newpath
+249 -258 m 249 -258 l
+stroke
+newpath
+249 -258 m 250 -258 l
+stroke
+newpath
+250 -258 m 250 -258 l
+stroke
+newpath
+250 -258 m 250 -258 l
+stroke
+newpath
+250 -258 m 250 -258 l
+stroke
+newpath
+250 -258 m 250 -258 l
+stroke
+newpath
+250 -258 m 250 -258 l
+stroke
+newpath
+250 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 251 -258 l
+stroke
+newpath
+251 -258 m 252 -258 l
+stroke
+newpath
+252 -258 m 252 -258 l
+stroke
+newpath
+252 -258 m 252 -258 l
+stroke
+newpath
+252 -258 m 252 -258 l
+stroke
+newpath
+252 -258 m 252 -258 l
+stroke
+newpath
+252 -258 m 252 -258 l
+stroke
+newpath
+252 -258 m 253 -258 l
+stroke
+newpath
+253 -258 m 253 -258 l
+stroke
+newpath
+253 -258 m 253 -258 l
+stroke
+newpath
+253 -258 m 253 -258 l
+stroke
+newpath
+253 -258 m 253 -258 l
+stroke
+newpath
+253 -258 m 253 -258 l
+stroke
+newpath
+253 -258 m 253 -257 l
+stroke
+newpath
+253 -257 m 253 -257 l
+stroke
+newpath
+253 -257 m 253 -257 l
+stroke
+newpath
+253 -257 m 254 -257 l
+stroke
+newpath
+254 -257 m 254 -257 l
+stroke
+newpath
+254 -257 m 254 -257 l
+stroke
+newpath
+254 -257 m 254 -257 l
+stroke
+newpath
+254 -257 m 254 -257 l
+stroke
+newpath
+254 -257 m 254 -257 l
+stroke
+newpath
+254 -257 m 255 -257 l
+stroke
+newpath
+255 -257 m 255 -257 l
+stroke
+newpath
+255 -257 m 255 -257 l
+stroke
+newpath
+255 -257 m 255 -257 l
+stroke
+newpath
+255 -257 m 255 -257 l
+stroke
+newpath
+255 -257 m 255 -257 l
+stroke
+newpath
+255 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 256 -257 l
+stroke
+newpath
+256 -257 m 257 -257 l
+stroke
+newpath
+257 -257 m 257 -257 l
+stroke
+newpath
+257 -257 m 257 -257 l
+stroke
+newpath
+257 -257 m 257 -257 l
+stroke
+newpath
+257 -257 m 257 -257 l
+stroke
+newpath
+257 -257 m 257 -257 l
+stroke
+newpath
+257 -257 m 258 -257 l
+stroke
+newpath
+258 -257 m 258 -256 l
+stroke
+newpath
+258 -256 m 258 -256 l
+stroke
+newpath
+258 -256 m 258 -256 l
+stroke
+newpath
+258 -256 m 258 -256 l
+stroke
+newpath
+258 -256 m 258 -256 l
+stroke
+newpath
+258 -256 m 258 -256 l
+stroke
+newpath
+258 -256 m 258 -256 l
+stroke
+newpath
+258 -256 m 259 -256 l
+stroke
+newpath
+259 -256 m 259 -256 l
+stroke
+newpath
+259 -256 m 259 -256 l
+stroke
+newpath
+259 -256 m 259 -256 l
+stroke
+newpath
+259 -256 m 259 -256 l
+stroke
+newpath
+259 -256 m 259 -256 l
+stroke
+newpath
+259 -256 m 260 -256 l
+stroke
+newpath
+260 -256 m 260 -256 l
+stroke
+newpath
+260 -256 m 260 -255 l
+stroke
+newpath
+260 -255 m 260 -255 l
+stroke
+newpath
+260 -255 m 260 -255 l
+stroke
+newpath
+260 -255 m 260 -255 l
+stroke
+newpath
+260 -255 m 261 -255 l
+stroke
+newpath
+261 -255 m 261 -255 l
+stroke
+newpath
+261 -255 m 261 -255 l
+stroke
+newpath
+261 -255 m 261 -255 l
+stroke
+newpath
+261 -255 m 261 -255 l
+stroke
+newpath
+261 -255 m 261 -254 l
+stroke
+newpath
+261 -254 m 261 -254 l
+stroke
+newpath
+261 -254 m 261 -254 l
+stroke
+newpath
+261 -254 m 261 -254 l
+stroke
+newpath
+261 -254 m 262 -254 l
+stroke
+newpath
+262 -254 m 262 -254 l
+stroke
+newpath
+262 -254 m 262 -254 l
+stroke
+newpath
+262 -254 m 262 -253 l
+stroke
+newpath
+262 -253 m 262 -253 l
+stroke
+newpath
+262 -253 m 262 -253 l
+stroke
+newpath
+262 -253 m 263 -252 l
+stroke
+newpath
+263 -252 m 263 -252 l
+stroke
+newpath
+263 -252 m 263 -252 l
+stroke
+newpath
+263 -252 m 263 -252 l
+stroke
+newpath
+263 -252 m 263 -252 l
+stroke
+newpath
+263 -252 m 263 -251 l
+stroke
+newpath
+263 -251 m 264 -251 l
+stroke
+newpath
+264 -251 m 264 -251 l
+stroke
+newpath
+264 -251 m 264 -250 l
+stroke
+newpath
+264 -250 m 264 -250 l
+stroke
+newpath
+264 -250 m 264 -250 l
+stroke
+newpath
+264 -250 m 264 -249 l
+stroke
+newpath
+264 -249 m 264 -249 l
+stroke
+newpath
+264 -249 m 264 -249 l
+stroke
+newpath
+264 -249 m 264 -248 l
+stroke
+newpath
+264 -248 m 265 -248 l
+stroke
+newpath
+265 -248 m 265 -247 l
+stroke
+newpath
+265 -247 m 265 -247 l
+stroke
+newpath
+265 -247 m 265 -246 l
+stroke
+newpath
+265 -246 m 265 -246 l
+stroke
+newpath
+265 -246 m 265 -245 l
+stroke
+newpath
+265 -245 m 266 -245 l
+stroke
+newpath
+266 -245 m 266 -244 l
+stroke
+newpath
+266 -244 m 266 -243 l
+stroke
+newpath
+266 -243 m 266 -243 l
+stroke
+newpath
+266 -243 m 266 -241 l
+stroke
+newpath
+266 -241 m 266 -241 l
+stroke
+newpath
+266 -241 m 266 -240 l
+stroke
+newpath
+266 -240 m 266 -239 l
+stroke
+newpath
+266 -239 m 266 -238 l
+stroke
+newpath
+266 -238 m 267 -237 l
+stroke
+newpath
+267 -237 m 267 -236 l
+stroke
+newpath
+267 -236 m 267 -235 l
+stroke
+newpath
+267 -235 m 267 -234 l
+stroke
+newpath
+267 -234 m 267 -233 l
+stroke
+newpath
+267 -233 m 268 -231 l
+stroke
+newpath
+268 -231 m 268 -230 l
+stroke
+newpath
+268 -230 m 268 -228 l
+stroke
+newpath
+268 -228 m 268 -227 l
+stroke
+newpath
+268 -227 m 268 -226 l
+stroke
+newpath
+268 -226 m 268 -225 l
+stroke
+newpath
+268 -225 m 269 -223 l
+stroke
+newpath
+269 -223 m 269 -222 l
+stroke
+newpath
+269 -222 m 269 -221 l
+stroke
+newpath
+269 -221 m 269 -220 l
+stroke
+newpath
+269 -220 m 269 -219 l
+stroke
+newpath
+269 -219 m 269 -218 l
+stroke
+newpath
+269 -218 m 269 -218 l
+stroke
+newpath
+269 -218 m 269 -217 l
+stroke
+newpath
+269 -217 m 269 -217 l
+stroke
+newpath
+269 -217 m 270 -217 l
+stroke
+newpath
+270 -217 m 270 -218 l
+stroke
+newpath
+270 -218 m 270 -218 l
+stroke
+newpath
+270 -218 m 270 -219 l
+stroke
+newpath
+270 -219 m 270 -220 l
+stroke
+newpath
+270 -220 m 270 -221 l
+stroke
+newpath
+270 -221 m 271 -222 l
+stroke
+newpath
+271 -222 m 271 -223 l
+stroke
+newpath
+271 -223 m 271 -224 l
+stroke
+newpath
+271 -224 m 271 -225 l
+stroke
+newpath
+271 -225 m 271 -226 l
+stroke
+newpath
+271 -226 m 271 -228 l
+stroke
+newpath
+271 -228 m 271 -229 l
+stroke
+newpath
+271 -229 m 271 -230 l
+stroke
+newpath
+271 -230 m 271 -232 l
+stroke
+newpath
+271 -232 m 272 -233 l
+stroke
+newpath
+272 -233 m 272 -234 l
+stroke
+newpath
+272 -234 m 272 -235 l
+stroke
+newpath
+272 -235 m 272 -236 l
+stroke
+newpath
+272 -236 m 272 -237 l
+stroke
+newpath
+272 -237 m 272 -238 l
+stroke
+newpath
+272 -238 m 273 -239 l
+stroke
+newpath
+273 -239 m 273 -240 l
+stroke
+newpath
+273 -240 m 273 -240 l
+stroke
+newpath
+273 -240 m 273 -241 l
+stroke
+newpath
+273 -241 m 273 -242 l
+stroke
+newpath
+273 -242 m 273 -243 l
+stroke
+newpath
+273 -243 m 274 -243 l
+stroke
+newpath
+274 -243 m 274 -244 l
+stroke
+newpath
+274 -244 m 274 -245 l
+stroke
+newpath
+274 -245 m 274 -245 l
+stroke
+newpath
+274 -245 m 274 -246 l
+stroke
+newpath
+274 -246 m 274 -246 l
+stroke
+newpath
+274 -246 m 274 -246 l
+stroke
+newpath
+274 -246 m 274 -247 l
+stroke
+newpath
+274 -247 m 274 -247 l
+stroke
+newpath
+274 -247 m 275 -247 l
+stroke
+newpath
+275 -247 m 275 -248 l
+stroke
+newpath
+275 -248 m 275 -248 l
+stroke
+newpath
+275 -248 m 275 -248 l
+stroke
+newpath
+275 -248 m 275 -249 l
+stroke
+newpath
+275 -249 m 275 -249 l
+stroke
+newpath
+275 -249 m 276 -249 l
+stroke
+newpath
+276 -249 m 276 -249 l
+stroke
+newpath
+276 -249 m 276 -250 l
+stroke
+newpath
+276 -250 m 276 -250 l
+stroke
+newpath
+276 -250 m 276 -250 l
+stroke
+newpath
+276 -250 m 276 -250 l
+stroke
+newpath
+276 -250 m 276 -250 l
+stroke
+newpath
+276 -250 m 276 -250 l
+stroke
+newpath
+276 -250 m 277 -251 l
+stroke
+newpath
+277 -251 m 277 -251 l
+stroke
+newpath
+277 -251 m 277 -251 l
+stroke
+newpath
+277 -251 m 277 -251 l
+stroke
+newpath
+277 -251 m 277 -251 l
+stroke
+newpath
+277 -251 m 277 -251 l
+stroke
+newpath
+277 -251 m 278 -251 l
+stroke
+newpath
+278 -251 m 278 -251 l
+stroke
+newpath
+278 -251 m 278 -251 l
+stroke
+newpath
+278 -251 m 278 -251 l
+stroke
+newpath
+278 -251 m 278 -251 l
+stroke
+newpath
+278 -251 m 278 -251 l
+stroke
+newpath
+278 -251 m 279 -252 l
+stroke
+newpath
+279 -252 m 279 -252 l
+stroke
+newpath
+279 -252 m 279 -252 l
+stroke
+newpath
+279 -252 m 279 -252 l
+stroke
+newpath
+279 -252 m 279 -252 l
+stroke
+newpath
+279 -252 m 279 -252 l
+stroke
+newpath
+279 -252 m 279 -252 l
+stroke
+newpath
+279 -252 m 279 -252 l
+stroke
+newpath
+279 -252 m 279 -252 l
+stroke
+newpath
+279 -252 m 280 -252 l
+stroke
+newpath
+280 -252 m 280 -252 l
+stroke
+newpath
+280 -252 m 280 -252 l
+stroke
+newpath
+280 -252 m 280 -252 l
+stroke
+newpath
+280 -252 m 280 -252 l
+stroke
+newpath
+280 -252 m 280 -252 l
+stroke
+newpath
+280 -252 m 281 -252 l
+stroke
+newpath
+281 -252 m 281 -252 l
+stroke
+newpath
+281 -252 m 281 -252 l
+stroke
+newpath
+281 -252 m 281 -252 l
+stroke
+newpath
+281 -252 m 281 -252 l
+stroke
+newpath
+281 -252 m 281 -252 l
+stroke
+newpath
+281 -252 m 282 -252 l
+stroke
+newpath
+282 -252 m 282 -251 l
+stroke
+newpath
+282 -251 m 282 -251 l
+stroke
+newpath
+282 -251 m 282 -251 l
+stroke
+newpath
+282 -251 m 282 -251 l
+stroke
+newpath
+282 -251 m 282 -251 l
+stroke
+newpath
+282 -251 m 282 -251 l
+stroke
+newpath
+282 -251 m 282 -251 l
+stroke
+newpath
+282 -251 m 282 -251 l
+stroke
+newpath
+282 -251 m 283 -251 l
+stroke
+newpath
+283 -251 m 283 -251 l
+stroke
+newpath
+283 -251 m 283 -251 l
+stroke
+newpath
+283 -251 m 283 -251 l
+stroke
+newpath
+283 -251 m 283 -251 l
+stroke
+newpath
+283 -251 m 283 -251 l
+stroke
+newpath
+283 -251 m 284 -250 l
+stroke
+newpath
+284 -250 m 284 -250 l
+stroke
+newpath
+284 -250 m 284 -250 l
+stroke
+newpath
+284 -250 m 284 -250 l
+stroke
+newpath
+284 -250 m 284 -250 l
+stroke
+newpath
+284 -250 m 284 -250 l
+stroke
+newpath
+284 -250 m 284 -250 l
+stroke
+newpath
+284 -250 m 284 -250 l
+stroke
+newpath
+284 -250 m 284 -250 l
+stroke
+newpath
+284 -250 m 285 -249 l
+stroke
+newpath
+285 -249 m 285 -249 l
+stroke
+newpath
+285 -249 m 285 -249 l
+stroke
+newpath
+285 -249 m 285 -249 l
+stroke
+newpath
+285 -249 m 285 -249 l
+stroke
+newpath
+285 -249 m 286 -249 l
+stroke
+newpath
+286 -249 m 286 -248 l
+stroke
+newpath
+286 -248 m 286 -248 l
+stroke
+newpath
+286 -248 m 286 -248 l
+stroke
+newpath
+286 -248 m 286 -248 l
+stroke
+newpath
+286 -248 m 286 -248 l
+stroke
+newpath
+286 -248 m 287 -247 l
+stroke
+newpath
+287 -247 m 287 -247 l
+stroke
+newpath
+287 -247 m 287 -247 l
+stroke
+newpath
+287 -247 m 287 -247 l
+stroke
+newpath
+287 -247 m 287 -247 l
+stroke
+newpath
+287 -247 m 287 -246 l
+stroke
+newpath
+287 -246 m 287 -246 l
+stroke
+newpath
+287 -246 m 287 -246 l
+stroke
+newpath
+287 -246 m 287 -246 l
+stroke
+newpath
+287 -246 m 288 -245 l
+stroke
+newpath
+288 -245 m 288 -245 l
+stroke
+newpath
+288 -245 m 288 -245 l
+stroke
+newpath
+288 -245 m 288 -244 l
+stroke
+newpath
+288 -244 m 288 -244 l
+stroke
+newpath
+288 -244 m 288 -244 l
+stroke
+newpath
+288 -244 m 289 -243 l
+stroke
+newpath
+289 -243 m 289 -243 l
+stroke
+newpath
+289 -243 m 289 -243 l
+stroke
+newpath
+289 -243 m 289 -242 l
+stroke
+newpath
+289 -242 m 289 -241 l
+stroke
+newpath
+289 -241 m 289 -241 l
+stroke
+newpath
+289 -241 m 289 -240 l
+stroke
+newpath
+289 -240 m 289 -240 l
+stroke
+newpath
+289 -240 m 289 -239 l
+stroke
+newpath
+289 -239 m 290 -239 l
+stroke
+newpath
+290 -239 m 290 -238 l
+stroke
+newpath
+290 -238 m 290 -238 l
+stroke
+newpath
+290 -238 m 290 -237 l
+stroke
+newpath
+290 -237 m 290 -237 l
+stroke
+newpath
+290 -237 m 290 -236 l
+stroke
+newpath
+290 -236 m 291 -235 l
+stroke
+newpath
+291 -235 m 291 -235 l
+stroke
+newpath
+291 -235 m 291 -234 l
+stroke
+newpath
+291 -234 m 291 -233 l
+stroke
+newpath
+291 -233 m 291 -232 l
+stroke
+newpath
+291 -232 m 291 -232 l
+stroke
+newpath
+291 -232 m 292 -231 l
+stroke
+newpath
+292 -231 m 292 -229 l
+stroke
+newpath
+292 -229 m 292 -228 l
+stroke
+newpath
+292 -228 m 292 -227 l
+stroke
+newpath
+292 -227 m 292 -226 l
+stroke
+newpath
+292 -226 m 292 -225 l
+stroke
+newpath
+292 -225 m 292 -224 l
+stroke
+newpath
+292 -224 m 292 -223 l
+stroke
+newpath
+292 -223 m 292 -222 l
+stroke
+newpath
+292 -222 m 293 -220 l
+stroke
+newpath
+293 -220 m 293 -218 l
+stroke
+newpath
+293 -218 m 293 -217 l
+stroke
+newpath
+293 -217 m 293 -215 l
+stroke
+newpath
+293 -215 m 293 -214 l
+stroke
+newpath
+293 -214 m 293 -212 l
+stroke
+newpath
+293 -212 m 294 -210 l
+stroke
+newpath
+294 -210 m 294 -208 l
+stroke
+newpath
+294 -208 m 294 -206 l
+stroke
+newpath
+294 -206 m 294 -203 l
+stroke
+newpath
+294 -203 m 294 -201 l
+stroke
+newpath
+294 -201 m 294 -199 l
+stroke
+newpath
+294 -199 m 294 -196 l
+stroke
+newpath
+294 -196 m 294 -193 l
+stroke
+newpath
+294 -193 m 295 -190 l
+stroke
+newpath
+295 -190 m 295 -187 l
+stroke
+newpath
+295 -187 m 295 -183 l
+stroke
+newpath
+295 -183 m 295 -180 l
+stroke
+newpath
+295 -180 m 295 -176 l
+stroke
+newpath
+295 -176 m 295 -171 l
+stroke
+newpath
+295 -171 m 296 -167 l
+stroke
+newpath
+296 -167 m 296 -163 l
+stroke
+newpath
+296 -163 m 296 -158 l
+stroke
+newpath
+296 -158 m 296 -153 l
+stroke
+newpath
+296 -153 m 296 -147 l
+stroke
+newpath
+296 -147 m 296 -142 l
+stroke
+newpath
+296 -142 m 297 -135 l
+stroke
+newpath
+297 -135 m 297 -129 l
+stroke
+newpath
+297 -129 m 297 -123 l
+stroke
+newpath
+297 -123 m 297 -116 l
+stroke
+newpath
+297 -116 m 297 -108 l
+stroke
+newpath
+297 -108 m 297 -101 l
+stroke
+newpath
+297 -101 m 297 -93 l
+stroke
+newpath
+297 -93 m 297 -85 l
+stroke
+newpath
+297 -85 m 297 -77 l
+stroke
+newpath
+297 -77 m 298 -70 l
+stroke
+newpath
+298 -70 m 298 -62 l
+stroke
+newpath
+298 -62 m 298 -54 l
+stroke
+newpath
+298 -54 m 298 -47 l
+stroke
+newpath
+298 -47 m 298 -40 l
+stroke
+newpath
+298 -40 m 298 -33 l
+stroke
+newpath
+298 -33 m 299 -27 l
+stroke
+newpath
+299 -27 m 299 -22 l
+stroke
+newpath
+299 -22 m 299 -19 l
+stroke
+newpath
+299 -19 m 299 -16 l
+stroke
+newpath
+299 -16 m 299 -14 l
+stroke
+newpath
+299 -14 m 299 -14 l
+stroke
+newpath
+299 -14 m 300 -15 l
+stroke
+newpath
+300 -15 m 300 -17 l
+stroke
+newpath
+300 -17 m 300 -20 l
+stroke
+newpath
+300 -20 m 300 -24 l
+stroke
+newpath
+300 -24 m 300 -29 l
+stroke
+newpath
+300 -29 m 300 -35 l
+stroke
+newpath
+300 -35 m 300 -42 l
+stroke
+newpath
+300 -42 m 300 -49 l
+stroke
+newpath
+300 -49 m 300 -56 l
+stroke
+newpath
+300 -56 m 301 -64 l
+stroke
+newpath
+301 -64 m 301 -72 l
+stroke
+newpath
+301 -72 m 301 -81 l
+stroke
+newpath
+301 -81 m 301 -88 l
+stroke
+newpath
+301 -88 m 301 -96 l
+stroke
+newpath
+301 -96 m 301 -104 l
+stroke
+newpath
+301 -104 m 302 -111 l
+stroke
+newpath
+302 -111 m 302 -118 l
+stroke
+newpath
+302 -118 m 302 -125 l
+stroke
+newpath
+302 -125 m 302 -132 l
+stroke
+newpath
+302 -132 m 302 -138 l
+stroke
+newpath
+302 -138 m 302 -144 l
+stroke
+newpath
+302 -144 m 302 -150 l
+stroke
+newpath
+302 -150 m 302 -155 l
+stroke
+newpath
+302 -155 m 302 -160 l
+stroke
+newpath
+302 -160 m 303 -165 l
+stroke
+newpath
+303 -165 m 303 -169 l
+stroke
+newpath
+303 -169 m 303 -174 l
+stroke
+newpath
+303 -174 m 303 -177 l
+stroke
+newpath
+303 -177 m 303 -181 l
+stroke
+newpath
+303 -181 m 303 -185 l
+stroke
+newpath
+303 -185 m 304 -188 l
+stroke
+newpath
+304 -188 m 304 -191 l
+stroke
+newpath
+304 -191 m 304 -194 l
+stroke
+newpath
+304 -194 m 304 -197 l
+stroke
+newpath
+304 -197 m 304 -200 l
+stroke
+newpath
+304 -200 m 305 -202 l
+stroke
+newpath
+305 -202 m 305 -204 l
+stroke
+newpath
+305 -204 m 305 -207 l
+stroke
+newpath
+305 -207 m 305 -209 l
+stroke
+newpath
+305 -209 m 305 -211 l
+stroke
+newpath
+305 -211 m 305 -213 l
+stroke
+newpath
+305 -213 m 305 -215 l
+stroke
+newpath
+305 -215 m 305 -216 l
+stroke
+newpath
+305 -216 m 305 -218 l
+stroke
+newpath
+305 -218 m 306 -220 l
+stroke
+newpath
+306 -220 m 306 -221 l
+stroke
+newpath
+306 -221 m 306 -222 l
+stroke
+newpath
+306 -222 m 306 -224 l
+stroke
+newpath
+306 -224 m 306 -225 l
+stroke
+newpath
+306 -225 m 306 -226 l
+stroke
+newpath
+306 -226 m 307 -227 l
+stroke
+newpath
+307 -227 m 307 -228 l
+stroke
+newpath
+307 -228 m 307 -229 l
+stroke
+newpath
+307 -229 m 307 -231 l
+stroke
+newpath
+307 -231 m 307 -231 l
+stroke
+newpath
+307 -231 m 307 -232 l
+stroke
+newpath
+307 -232 m 307 -233 l
+stroke
+newpath
+307 -233 m 307 -234 l
+stroke
+newpath
+307 -234 m 307 -235 l
+stroke
+newpath
+307 -235 m 308 -235 l
+stroke
+newpath
+308 -235 m 308 -236 l
+stroke
+newpath
+308 -236 m 308 -237 l
+stroke
+newpath
+308 -237 m 308 -237 l
+stroke
+newpath
+308 -237 m 308 -238 l
+stroke
+newpath
+308 -238 m 308 -239 l
+stroke
+newpath
+308 -239 m 309 -239 l
+stroke
+newpath
+309 -239 m 309 -240 l
+stroke
+newpath
+309 -240 m 309 -240 l
+stroke
+newpath
+309 -240 m 309 -241 l
+stroke
+newpath
+309 -241 m 309 -241 l
+stroke
+newpath
+309 -241 m 309 -242 l
+stroke
+newpath
+309 -242 m 310 -242 l
+stroke
+newpath
+310 -242 m 310 -243 l
+stroke
+newpath
+310 -243 m 310 -243 l
+stroke
+newpath
+310 -243 m 310 -244 l
+stroke
+newpath
+310 -244 m 310 -244 l
+stroke
+newpath
+310 -244 m 310 -244 l
+stroke
+newpath
+310 -244 m 310 -245 l
+stroke
+newpath
+310 -245 m 310 -245 l
+stroke
+newpath
+310 -245 m 310 -245 l
+stroke
+newpath
+310 -245 m 311 -246 l
+stroke
+newpath
+311 -246 m 311 -246 l
+stroke
+newpath
+311 -246 m 311 -246 l
+stroke
+newpath
+311 -246 m 311 -247 l
+stroke
+newpath
+311 -247 m 311 -247 l
+stroke
+newpath
+311 -247 m 311 -247 l
+stroke
+newpath
+311 -247 m 312 -248 l
+stroke
+newpath
+312 -248 m 312 -248 l
+stroke
+newpath
+312 -248 m 312 -248 l
+stroke
+newpath
+312 -248 m 312 -248 l
+stroke
+newpath
+312 -248 m 312 -248 l
+stroke
+newpath
+312 -248 m 312 -249 l
+stroke
+newpath
+312 -249 m 312 -249 l
+stroke
+newpath
+312 -249 m 312 -249 l
+stroke
+newpath
+312 -249 m 312 -249 l
+stroke
+newpath
+312 -249 m 313 -250 l
+stroke
+newpath
+313 -250 m 313 -250 l
+stroke
+newpath
+313 -250 m 313 -250 l
+stroke
+newpath
+313 -250 m 313 -250 l
+stroke
+newpath
+313 -250 m 313 -250 l
+stroke
+newpath
+313 -250 m 314 -250 l
+stroke
+newpath
+314 -250 m 314 -251 l
+stroke
+newpath
+314 -251 m 314 -251 l
+stroke
+newpath
+314 -251 m 314 -251 l
+stroke
+newpath
+314 -251 m 314 -251 l
+stroke
+newpath
+314 -251 m 314 -251 l
+stroke
+newpath
+314 -251 m 315 -251 l
+stroke
+newpath
+315 -251 m 315 -252 l
+stroke
+newpath
+315 -252 m 315 -252 l
+stroke
+newpath
+315 -252 m 315 -252 l
+stroke
+newpath
+315 -252 m 315 -252 l
+stroke
+newpath
+315 -252 m 315 -252 l
+stroke
+newpath
+315 -252 m 315 -252 l
+stroke
+newpath
+315 -252 m 315 -252 l
+stroke
+newpath
+315 -252 m 315 -252 l
+stroke
+newpath
+315 -252 m 316 -253 l
+stroke
+newpath
+316 -253 m 316 -253 l
+stroke
+newpath
+316 -253 m 316 -253 l
+stroke
+newpath
+316 -253 m 316 -253 l
+stroke
+newpath
+316 -253 m 316 -253 l
+stroke
+newpath
+316 -253 m 316 -254 l
+stroke
+newpath
+316 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 317 -254 l
+stroke
+newpath
+317 -254 m 318 -254 l
+stroke
+newpath
+318 -254 m 318 -255 l
+stroke
+newpath
+318 -255 m 318 -255 l
+stroke
+newpath
+318 -255 m 318 -255 l
+stroke
+newpath
+318 -255 m 318 -255 l
+stroke
+newpath
+318 -255 m 318 -255 l
+stroke
+newpath
+318 -255 m 319 -255 l
+stroke
+newpath
+319 -255 m 319 -255 l
+stroke
+newpath
+319 -255 m 319 -255 l
+stroke
+newpath
+319 -255 m 319 -255 l
+stroke
+newpath
+319 -255 m 319 -255 l
+stroke
+newpath
+319 -255 m 319 -255 l
+stroke
+newpath
+319 -255 m 320 -255 l
+stroke
+newpath
+320 -255 m 320 -255 l
+stroke
+newpath
+320 -255 m 320 -255 l
+stroke
+newpath
+320 -255 m 320 -256 l
+stroke
+newpath
+320 -256 m 320 -256 l
+stroke
+newpath
+320 -256 m 320 -256 l
+stroke
+newpath
+320 -256 m 320 -256 l
+stroke
+newpath
+320 -256 m 320 -256 l
+stroke
+newpath
+320 -256 m 320 -256 l
+stroke
+newpath
+320 -256 m 321 -256 l
+stroke
+newpath
+321 -256 m 321 -256 l
+stroke
+newpath
+321 -256 m 321 -256 l
+stroke
+newpath
+321 -256 m 321 -256 l
+stroke
+newpath
+321 -256 m 321 -256 l
+stroke
+newpath
+321 -256 m 321 -256 l
+stroke
+newpath
+321 -256 m 322 -256 l
+stroke
+newpath
+322 -256 m 322 -256 l
+stroke
+newpath
+322 -256 m 322 -256 l
+stroke
+newpath
+322 -256 m 322 -256 l
+stroke
+newpath
+322 -256 m 322 -256 l
+stroke
+newpath
+322 -256 m 322 -256 l
+stroke
+newpath
+322 -256 m 323 -256 l
+stroke
+newpath
+323 -256 m 323 -256 l
+stroke
+newpath
+323 -256 m 323 -256 l
+stroke
+newpath
+323 -256 m 323 -257 l
+stroke
+newpath
+323 -257 m 323 -257 l
+stroke
+newpath
+323 -257 m 323 -257 l
+stroke
+newpath
+323 -257 m 323 -257 l
+stroke
+newpath
+323 -257 m 323 -257 l
+stroke
+newpath
+323 -257 m 324 -257 l
+stroke
+newpath
+324 -257 m 324 -257 l
+stroke
+newpath
+324 -257 m 324 -257 l
+stroke
+newpath
+324 -257 m 324 -257 l
+stroke
+newpath
+324 -257 m 324 -257 l
+stroke
+newpath
+324 -257 m 324 -257 l
+stroke
+newpath
+324 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 325 -257 l
+stroke
+newpath
+325 -257 m 326 -257 l
+stroke
+newpath
+326 -257 m 326 -257 l
+stroke
+newpath
+326 -257 m 326 -257 l
+stroke
+newpath
+326 -257 m 326 -257 l
+stroke
+newpath
+326 -257 m 326 -257 l
+stroke
+newpath
+326 -257 m 326 -257 l
+stroke
+newpath
+326 -257 m 327 -257 l
+stroke
+newpath
+327 -257 m 327 -257 l
+stroke
+newpath
+327 -257 m 327 -257 l
+stroke
+newpath
+327 -257 m 327 -257 l
+stroke
+newpath
+327 -257 m 327 -257 l
+stroke
+newpath
+327 -257 m 327 -257 l
+stroke
+newpath
+327 -257 m 328 -258 l
+stroke
+newpath
+328 -258 m 328 -258 l
+stroke
+newpath
+328 -258 m 328 -258 l
+stroke
+newpath
+328 -258 m 328 -258 l
+stroke
+newpath
+328 -258 m 328 -258 l
+stroke
+newpath
+328 -258 m 328 -258 l
+stroke
+newpath
+328 -258 m 328 -258 l
+stroke
+newpath
+328 -258 m 328 -258 l
+stroke
+newpath
+328 -258 m 328 -258 l
+stroke
+newpath
+328 -258 m 329 -258 l
+stroke
+newpath
+329 -258 m 329 -258 l
+stroke
+newpath
+329 -258 m 329 -258 l
+stroke
+newpath
+329 -258 m 329 -258 l
+stroke
+newpath
+329 -258 m 329 -258 l
+stroke
+newpath
+329 -258 m 329 -258 l
+stroke
+newpath
+329 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 330 -258 l
+stroke
+newpath
+330 -258 m 331 -258 l
+stroke
+newpath
+331 -258 m 331 -258 l
+stroke
+newpath
+331 -258 m 331 -258 l
+stroke
+newpath
+331 -258 m 331 -258 l
+stroke
+newpath
+331 -258 m 331 -258 l
+stroke
+newpath
+331 -258 m 331 -258 l
+stroke
+newpath
+331 -258 m 332 -258 l
+stroke
+newpath
+332 -258 m 332 -258 l
+stroke
+newpath
+332 -258 m 332 -258 l
+stroke
+newpath
+332 -258 m 332 -258 l
+stroke
+newpath
+332 -258 m 332 -258 l
+stroke
+newpath
+332 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 333 -258 l
+stroke
+newpath
+333 -258 m 334 -258 l
+stroke
+newpath
+334 -258 m 334 -258 l
+stroke
+newpath
+334 -258 m 334 -258 l
+stroke
+newpath
+334 -258 m 334 -258 l
+stroke
+newpath
+334 -258 m 334 -258 l
+stroke
+newpath
+334 -258 m 334 -258 l
+stroke
+newpath
+334 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 335 -258 l
+stroke
+newpath
+335 -258 m 336 -258 l
+stroke
+newpath
+336 -258 m 336 -259 l
+stroke
+newpath
+336 -259 m 336 -259 l
+stroke
+newpath
+336 -259 m 336 -259 l
+stroke
+newpath
+336 -259 m 336 -259 l
+stroke
+newpath
+336 -259 m 336 -259 l
+stroke
+newpath
+336 -259 m 337 -259 l
+stroke
+newpath
+337 -259 m 337 -259 l
+stroke
+newpath
+337 -259 m 337 -259 l
+stroke
+newpath
+337 -259 m 337 -259 l
+stroke
+newpath
+337 -259 m 337 -259 l
+stroke
+newpath
+337 -259 m 337 -259 l
+stroke
+newpath
+337 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 338 -259 l
+stroke
+newpath
+338 -259 m 339 -259 l
+stroke
+newpath
+339 -259 m 339 -259 l
+stroke
+newpath
+339 -259 m 339 -259 l
+stroke
+newpath
+339 -259 m 339 -259 l
+stroke
+newpath
+339 -259 m 339 -259 l
+stroke
+newpath
+339 -259 m 339 -259 l
+stroke
+newpath
+339 -259 m 340 -259 l
+stroke
+newpath
+340 -259 m 340 -259 l
+stroke
+newpath
+340 -259 m 340 -259 l
+stroke
+newpath
+340 -259 m 340 -259 l
+stroke
+newpath
+340 -259 m 340 -259 l
+stroke
+newpath
+340 -259 m 340 -259 l
+stroke
+newpath
+340 -259 m 341 -259 l
+stroke
+newpath
+341 -259 m 341 -259 l
+stroke
+newpath
+341 -259 m 341 -259 l
+stroke
+newpath
+341 -259 m 341 -259 l
+stroke
+newpath
+341 -259 m 341 -259 l
+stroke
+newpath
+341 -259 m 341 -259 l
+stroke
+newpath
+341 -259 m 341 -259 l
+stroke
+newpath
+341 -259 m 341 -259 l
+stroke
+newpath
+341 -259 m 342 -259 l
+stroke
+newpath
+342 -259 m 342 -259 l
+stroke
+newpath
+342 -259 m 342 -259 l
+stroke
+newpath
+342 -259 m 342 -259 l
+stroke
+newpath
+342 -259 m 342 -259 l
+stroke
+newpath
+342 -259 m 342 -259 l
+stroke
+newpath
+342 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 343 -259 l
+stroke
+newpath
+343 -259 m 344 -259 l
+stroke
+newpath
+344 -259 m 344 -259 l
+stroke
+newpath
+344 -259 m 344 -259 l
+stroke
+newpath
+344 -259 m 344 -259 l
+stroke
+newpath
+344 -259 m 344 -259 l
+stroke
+newpath
+344 -259 m 344 -259 l
+stroke
+newpath
+344 -259 m 345 -259 l
+stroke
+newpath
+345 -259 m 345 -259 l
+stroke
+newpath
+345 -259 m 345 -259 l
+stroke
+newpath
+345 -259 m 345 -259 l
+stroke
+newpath
+345 -259 m 345 -259 l
+stroke
+newpath
+345 -259 m 345 -259 l
+stroke
+newpath
+345 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 346 -259 l
+stroke
+newpath
+346 -259 m 347 -259 l
+stroke
+newpath
+347 -259 m 347 -259 l
+stroke
+newpath
+347 -259 m 347 -259 l
+stroke
+newpath
+347 -259 m 347 -259 l
+stroke
+newpath
+347 -259 m 347 -259 l
+stroke
+newpath
+347 -259 m 347 -259 l
+stroke
+newpath
+347 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 348 -259 l
+stroke
+newpath
+348 -259 m 349 -259 l
+stroke
+newpath
+349 -259 m 349 -259 l
+stroke
+newpath
+349 -259 m 349 -259 l
+stroke
+newpath
+349 -259 m 349 -259 l
+stroke
+newpath
+349 -259 m 349 -259 l
+stroke
+newpath
+349 -259 m 349 -259 l
+stroke
+newpath
+349 -259 m 350 -259 l
+stroke
+newpath
+350 -259 m 350 -259 l
+stroke
+newpath
+350 -259 m 350 -259 l
+stroke
+newpath
+350 -259 m 350 -259 l
+stroke
+newpath
+350 -259 m 350 -259 l
+stroke
+newpath
+350 -259 m 350 -259 l
+stroke
+newpath
+350 -259 m 351 -259 l
+stroke
+newpath
+351 -259 m 351 -259 l
+stroke
+newpath
+351 -259 m 351 -259 l
+stroke
+newpath
+351 -259 m 351 -259 l
+stroke
+newpath
+351 -259 m 351 -259 l
+stroke
+newpath
+351 -259 m 351 -259 l
+stroke
+newpath
+351 -259 m 351 -259 l
+stroke
+newpath
+351 -259 m 351 -259 l
+stroke
+newpath
+351 -259 m 352 -259 l
+stroke
+newpath
+352 -259 m 352 -259 l
+stroke
+newpath
+352 -259 m 352 -259 l
+stroke
+newpath
+352 -259 m 352 -259 l
+stroke
+newpath
+352 -259 m 352 -259 l
+stroke
+newpath
+352 -259 m 352 -259 l
+stroke
+newpath
+352 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 353 -259 l
+stroke
+newpath
+353 -259 m 354 -259 l
+stroke
+newpath
+354 -259 m 354 -259 l
+stroke
+newpath
+354 -259 m 354 -259 l
+stroke
+newpath
+354 -259 m 354 -259 l
+stroke
+newpath
+354 -259 m 354 -259 l
+stroke
+newpath
+354 -259 m 354 -259 l
+stroke
+newpath
+354 -259 m 355 -259 l
+stroke
+newpath
+355 -259 m 355 -259 l
+stroke
+newpath
+355 -259 m 355 -259 l
+stroke
+newpath
+355 -259 m 355 -259 l
+stroke
+newpath
+355 -259 m 355 -259 l
+stroke
+newpath
+355 -259 m 355 -259 l
+stroke
+newpath
+355 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 356 -259 l
+stroke
+newpath
+356 -259 m 357 -259 l
+stroke
+newpath
+357 -259 m 357 -259 l
+stroke
+newpath
+357 -259 m 357 -259 l
+stroke
+newpath
+357 -259 m 357 -259 l
+stroke
+newpath
+357 -259 m 357 -259 l
+stroke
+newpath
+357 -259 m 357 -259 l
+stroke
+newpath
+357 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 358 -259 l
+stroke
+newpath
+358 -259 m 359 -259 l
+stroke
+newpath
+359 -259 m 359 -259 l
+stroke
+newpath
+359 -259 m 359 -259 l
+stroke
+newpath
+359 -259 m 359 -259 l
+stroke
+newpath
+359 -259 m 359 -259 l
+stroke
+newpath
+359 -259 m 359 -259 l
+stroke
+newpath
+359 -259 m 360 -259 l
+stroke
+newpath
+360 -259 m 360 -259 l
+stroke
+newpath
+360 -259 m 360 -259 l
+stroke
+newpath
+360 -259 m 360 -259 l
+stroke
+newpath
+360 -259 m 360 -259 l
+stroke
+newpath
+360 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 361 -259 l
+stroke
+newpath
+361 -259 m 362 -259 l
+stroke
+newpath
+362 -259 m 362 -259 l
+stroke
+newpath
+362 -259 m 362 -259 l
+stroke
+newpath
+362 -259 m 362 -259 l
+stroke
+newpath
+362 -259 m 362 -259 l
+stroke
+newpath
+362 -259 m 362 -259 l
+stroke
+newpath
+362 -259 m 363 -259 l
+stroke
+newpath
+363 -259 m 363 -259 l
+stroke
+newpath
+363 -259 m 363 -259 l
+stroke
+newpath
+363 -259 m 363 -259 l
+stroke
+newpath
+363 -259 m 363 -259 l
+stroke
+newpath
+363 -259 m 363 -259 l
+stroke
+newpath
+363 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 364 -259 l
+stroke
+newpath
+364 -259 m 365 -259 l
+stroke
+newpath
+365 -259 m 365 -259 l
+stroke
+newpath
+365 -259 m 365 -259 l
+stroke
+newpath
+365 -259 m 365 -259 l
+stroke
+newpath
+365 -259 m 365 -260 l
+stroke
+newpath
+365 -260 m 365 -260 l
+stroke
+newpath
+365 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 366 -260 l
+stroke
+newpath
+366 -260 m 367 -260 l
+stroke
+newpath
+367 -260 m 367 -260 l
+stroke
+newpath
+367 -260 m 367 -260 l
+stroke
+newpath
+367 -260 m 367 -260 l
+stroke
+newpath
+367 -260 m 367 -260 l
+stroke
+newpath
+367 -260 m 367 -260 l
+stroke
+newpath
+367 -260 m 368 -260 l
+stroke
+newpath
+368 -260 m 368 -260 l
+stroke
+newpath
+368 -260 m 368 -260 l
+stroke
+newpath
+368 -260 m 368 -260 l
+stroke
+newpath
+368 -260 m 368 -260 l
+stroke
+newpath
+368 -260 m 368 -260 l
+stroke
+newpath
+368 -260 m 369 -260 l
+stroke
+newpath
+369 -260 m 369 -260 l
+stroke
+newpath
+369 -260 m 369 -260 l
+stroke
+newpath
+369 -260 m 369 -260 l
+stroke
+newpath
+369 -260 m 369 -260 l
+stroke
+newpath
+369 -260 m 369 -260 l
+stroke
+newpath
+369 -260 m 369 -260 l
+stroke
+newpath
+369 -260 m 369 -260 l
+stroke
+newpath
+369 -260 m 370 -260 l
+stroke
+newpath
+370 -260 m 370 -260 l
+stroke
+newpath
+370 -260 m 370 -260 l
+stroke
+newpath
+370 -260 m 370 -260 l
+stroke
+newpath
+370 -260 m 370 -260 l
+stroke
+newpath
+370 -260 m 370 -260 l
+stroke
+newpath
+370 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 371 -260 l
+stroke
+newpath
+371 -260 m 372 -260 l
+stroke
+newpath
+372 -260 m 372 -260 l
+stroke
+newpath
+372 -260 m 372 -260 l
+stroke
+newpath
+372 -260 m 372 -260 l
+stroke
+newpath
+372 -260 m 372 -260 l
+stroke
+newpath
+372 -260 m 372 -260 l
+stroke
+newpath
+372 -260 m 373 -260 l
+stroke
+newpath
+373 -260 m 373 -260 l
+stroke
+newpath
+373 -260 m 373 -260 l
+stroke
+newpath
+373 -260 m 373 -260 l
+stroke
+newpath
+373 -260 m 373 -260 l
+stroke
+newpath
+373 -260 m 373 -260 l
+stroke
+newpath
+373 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 374 -260 l
+stroke
+newpath
+374 -260 m 375 -260 l
+stroke
+newpath
+375 -260 m 375 -260 l
+stroke
+newpath
+375 -260 m 375 -260 l
+stroke
+newpath
+375 -260 m 375 -260 l
+stroke
+newpath
+375 -260 m 375 -260 l
+stroke
+newpath
+375 -260 m 375 -260 l
+stroke
+newpath
+375 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 376 -260 l
+stroke
+newpath
+376 -260 m 377 -260 l
+stroke
+newpath
+377 -260 m 377 -260 l
+stroke
+newpath
+377 -260 m 377 -260 l
+stroke
+newpath
+377 -260 m 377 -260 l
+stroke
+newpath
+377 -260 m 377 -260 l
+stroke
+newpath
+377 -260 m 377 -260 l
+stroke
+newpath
+377 -260 m 378 -260 l
+stroke
+newpath
+378 -260 m 378 -260 l
+stroke
+newpath
+378 -260 m 378 -260 l
+stroke
+newpath
+378 -260 m 378 -260 l
+stroke
+newpath
+378 -260 m 378 -260 l
+stroke
+newpath
+378 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 379 -260 l
+stroke
+newpath
+379 -260 m 380 -260 l
+stroke
+newpath
+380 -260 m 380 -260 l
+stroke
+newpath
+380 -260 m 380 -260 l
+stroke
+newpath
+380 -260 m 380 -260 l
+stroke
+newpath
+380 -260 m 380 -260 l
+stroke
+newpath
+380 -260 m 380 -260 l
+stroke
+newpath
+380 -260 m 381 -260 l
+stroke
+newpath
+381 -260 m 381 -260 l
+stroke
+newpath
+381 -260 m 381 -260 l
+stroke
+newpath
+381 -260 m 381 -260 l
+stroke
+newpath
+381 -260 m 381 -260 l
+stroke
+newpath
+381 -260 m 381 -260 l
+stroke
+newpath
+381 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 382 -260 l
+stroke
+newpath
+382 -260 m 383 -260 l
+stroke
+newpath
+383 -260 m 383 -260 l
+stroke
+newpath
+383 -260 m 383 -260 l
+stroke
+newpath
+383 -260 m 383 -260 l
+stroke
+newpath
+383 -260 m 383 -260 l
+stroke
+newpath
+383 -260 m 383 -260 l
+stroke
+newpath
+383 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 384 -260 l
+stroke
+newpath
+384 -260 m 385 -260 l
+stroke
+newpath
+385 -260 m 385 -260 l
+stroke
+newpath
+385 -260 m 385 -260 l
+stroke
+newpath
+385 -260 m 385 -260 l
+stroke
+newpath
+385 -260 m 385 -260 l
+stroke
+newpath
+385 -260 m 385 -260 l
+stroke
+newpath
+385 -260 m 386 -260 l
+stroke
+newpath
+386 -260 m 386 -260 l
+stroke
+newpath
+386 -260 m 386 -260 l
+stroke
+newpath
+386 -260 m 386 -260 l
+stroke
+newpath
+386 -260 m 386 -260 l
+stroke
+newpath
+386 -260 m 386 -260 l
+stroke
+newpath
+386 -260 m 387 -260 l
+stroke
+newpath
+387 -260 m 387 -260 l
+stroke
+newpath
+387 -260 m 387 -260 l
+stroke
+newpath
+387 -260 m 387 -260 l
+stroke
+newpath
+387 -260 m 387 -260 l
+stroke
+newpath
+387 -260 m 387 -260 l
+stroke
+newpath
+387 -260 m 387 -260 l
+stroke
+newpath
+387 -260 m 387 -260 l
+stroke
+newpath
+387 -260 m 388 -260 l
+stroke
+newpath
+388 -260 m 388 -260 l
+stroke
+newpath
+388 -260 m 388 -260 l
+stroke
+newpath
+388 -260 m 388 -260 l
+stroke
+newpath
+388 -260 m 388 -260 l
+stroke
+newpath
+388 -260 m 388 -260 l
+stroke
+newpath
+388 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 389 -260 l
+stroke
+newpath
+389 -260 m 390 -260 l
+stroke
+newpath
+390 -260 m 390 -260 l
+stroke
+newpath
+390 -260 m 390 -260 l
+stroke
+newpath
+390 -260 m 390 -260 l
+stroke
+newpath
+390 -260 m 390 -260 l
+stroke
+newpath
+390 -260 m 390 -260 l
+stroke
+newpath
+390 -260 m 391 -260 l
+stroke
+newpath
+391 -260 m 391 -260 l
+stroke
+newpath
+391 -260 m 391 -260 l
+stroke
+newpath
+391 -260 m 391 -260 l
+stroke
+newpath
+391 -260 m 391 -260 l
+stroke
+newpath
+391 -260 m 391 -260 l
+stroke
+newpath
+391 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 392 -260 l
+stroke
+newpath
+392 -260 m 393 -260 l
+stroke
+newpath
+393 -260 m 393 -260 l
+stroke
+newpath
+393 -260 m 393 -260 l
+stroke
+newpath
+393 -260 m 393 -260 l
+stroke
+newpath
+393 -260 m 393 -260 l
+stroke
+newpath
+393 -260 m 393 -260 l
+stroke
+newpath
+393 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 394 -260 l
+stroke
+newpath
+394 -260 m 395 -260 l
+stroke
+newpath
+395 -260 m 395 -260 l
+stroke
+newpath
+395 -260 m 395 -260 l
+stroke
+newpath
+395 -260 m 395 -260 l
+stroke
+newpath
+395 -260 m 395 -260 l
+stroke
+newpath
+395 -260 m 395 -260 l
+stroke
+newpath
+395 -260 m 396 -260 l
+stroke
+newpath
+396 -260 m 396 -260 l
+stroke
+newpath
+396 -260 m 396 -260 l
+stroke
+newpath
+396 -260 m 396 -260 l
+stroke
+newpath
+396 -260 m 396 -260 l
+stroke
+newpath
+396 -260 m 396 -260 l
+stroke
+newpath
+396 -260 m 397 -260 l
+stroke
+newpath
+397 -260 m 397 -260 l
+stroke
+newpath
+397 -260 m 397 -260 l
+stroke
+newpath
+397 -260 m 397 -260 l
+stroke
+newpath
+397 -260 m 397 -260 l
+stroke
+newpath
+397 -260 m 397 -260 l
+stroke
+newpath
+397 -260 m 397 -260 l
+stroke
+newpath
+397 -260 m 397 -260 l
+stroke
+newpath
+397 -260 m 398 -260 l
+stroke
+newpath
+398 -260 m 398 -260 l
+stroke
+newpath
+398 -260 m 398 -260 l
+stroke
+newpath
+398 -260 m 398 -260 l
+stroke
+newpath
+398 -260 m 398 -260 l
+stroke
+newpath
+398 -260 m 398 -260 l
+stroke
+newpath
+398 -260 m 399 -260 l
+stroke
+newpath
+399 -260 m 399 -260 l
+stroke
+newpath
+399 -260 m 399 -260 l
+stroke
+newpath
+399 -260 m 399 -260 l
+stroke
+newpath
+399 -260 m 399 -260 l
+stroke
+newpath
+399 -260 m 399 -260 l
+stroke
+newpath
+399 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 400 -260 l
+stroke
+newpath
+400 -260 m 401 -260 l
+stroke
+newpath
+401 -260 m 401 -260 l
+stroke
+newpath
+401 -260 m 401 -260 l
+stroke
+newpath
+401 -260 m 401 -260 l
+stroke
+newpath
+401 -260 m 401 -260 l
+stroke
+newpath
+401 -260 m 401 -260 l
+stroke
+newpath
+401 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 402 -260 l
+stroke
+newpath
+402 -260 m 403 -260 l
+stroke
+newpath
+403 -260 m 403 -260 l
+stroke
+newpath
+403 -260 m 403 -260 l
+stroke
+newpath
+403 -260 m 403 -260 l
+stroke
+newpath
+403 -260 m 403 -260 l
+stroke
+newpath
+403 -260 m 403 -260 l
+stroke
+newpath
+403 -260 m 404 -260 l
+stroke
+newpath
+404 -260 m 404 -260 l
+stroke
+newpath
+404 -260 m 404 -260 l
+stroke
+newpath
+404 -260 m 404 -260 l
+stroke
+newpath
+404 -260 m 404 -260 l
+stroke
+newpath
+404 -260 m 404 -260 l
+stroke
+newpath
+404 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 405 -260 l
+stroke
+newpath
+405 -260 m 406 -260 l
+stroke
+newpath
+406 -260 m 406 -260 l
+stroke
+newpath
+406 -260 m 406 -260 l
+stroke
+newpath
+406 -260 m 406 -260 l
+stroke
+newpath
+406 -260 m 406 -260 l
+stroke
+newpath
+406 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 407 -260 l
+stroke
+newpath
+407 -260 m 408 -260 l
+stroke
+newpath
+408 -260 m 408 -260 l
+stroke
+newpath
+408 -260 m 408 -260 l
+stroke
+newpath
+408 -260 m 408 -260 l
+stroke
+newpath
+408 -260 m 408 -260 l
+stroke
+newpath
+408 -260 m 408 -260 l
+stroke
+newpath
+408 -260 m 409 -260 l
+stroke
+newpath
+409 -260 m 409 -260 l
+stroke
+newpath
+409 -260 m 409 -260 l
+stroke
+newpath
+409 -260 m 409 -260 l
+stroke
+newpath
+409 -260 m 409 -260 l
+stroke
+newpath
+409 -260 m 409 -260 l
+stroke
+newpath
+409 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 410 -260 l
+stroke
+newpath
+410 -260 m 411 -260 l
+stroke
+newpath
+411 -260 m 411 -260 l
+stroke
+newpath
+411 -260 m 411 -260 l
+stroke
+newpath
+411 -260 m 411 -260 l
+stroke
+newpath
+411 -260 m 411 -260 l
+stroke
+newpath
+411 -260 m 411 -260 l
+stroke
+newpath
+411 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 412 -260 l
+stroke
+newpath
+412 -260 m 413 -260 l
+stroke
+newpath
+413 -260 m 413 -260 l
+stroke
+newpath
+413 -260 m 413 -260 l
+stroke
+newpath
+413 -260 m 413 -260 l
+stroke
+newpath
+413 -260 m 413 -260 l
+stroke
+newpath
+413 -260 m 413 -260 l
+stroke
+newpath
+413 -260 m 414 -260 l
+stroke
+newpath
+414 -260 m 414 -260 l
+stroke
+newpath
+414 -260 m 414 -260 l
+stroke
+newpath
+414 -260 m 414 -260 l
+stroke
+newpath
+414 -260 m 414 -260 l
+stroke
+newpath
+414 -260 m 414 -260 l
+stroke
+newpath
+414 -260 m 415 -260 l
+stroke
+newpath
+415 -260 m 415 -260 l
+stroke
+newpath
+415 -260 m 415 -260 l
+stroke
+newpath
+415 -260 m 415 -260 l
+stroke
+newpath
+415 -260 m 415 -260 l
+stroke
+newpath
+415 -260 m 415 -260 l
+stroke
+newpath
+415 -260 m 415 -260 l
+stroke
+newpath
+415 -260 m 415 -260 l
+stroke
+newpath
+415 -260 m 416 -260 l
+stroke
+newpath
+416 -260 m 416 -260 l
+stroke
+newpath
+416 -260 m 416 -260 l
+stroke
+newpath
+416 -260 m 416 -260 l
+stroke
+newpath
+416 -260 m 416 -260 l
+stroke
+newpath
+416 -260 m 416 -260 l
+stroke
+newpath
+416 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 417 -260 l
+stroke
+newpath
+417 -260 m 418 -260 l
+stroke
+newpath
+418 -260 m 418 -260 l
+stroke
+newpath
+418 -260 m 418 -260 l
+stroke
+newpath
+418 -260 m 418 -260 l
+stroke
+newpath
+418 -260 m 418 -260 l
+stroke
+newpath
+418 -260 m 418 -260 l
+stroke
+newpath
+418 -260 m 419 -260 l
+stroke
+newpath
+419 -260 m 419 -260 l
+stroke
+newpath
+419 -260 m 419 -260 l
+stroke
+newpath
+419 -260 m 419 -260 l
+stroke
+newpath
+419 -260 m 419 -260 l
+stroke
+newpath
+419 -260 m 419 -260 l
+stroke
+newpath
+419 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 420 -260 l
+stroke
+newpath
+420 -260 m 421 -260 l
+stroke
+newpath
+421 -260 m 421 -260 l
+stroke
+newpath
+421 -260 m 421 -260 l
+stroke
+newpath
+421 -260 m 421 -260 l
+stroke
+newpath
+421 -260 m 421 -260 l
+stroke
+newpath
+421 -260 m 421 -260 l
+stroke
+newpath
+421 -260 m 422 -260 l
+stroke
+newpath
+422 -260 m 422 -260 l
+stroke
+newpath
+422 -260 m 422 -260 l
+stroke
+newpath
+422 -260 m 422 -260 l
+stroke
+newpath
+422 -260 m 422 -260 l
+stroke
+newpath
+422 -260 m 422 -260 l
+stroke
+newpath
+422 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 423 -260 l
+stroke
+newpath
+423 -260 m 424 -260 l
+stroke
+newpath
+424 -260 m 424 -260 l
+stroke
+newpath
+424 -260 m 424 -260 l
+stroke
+newpath
+424 -260 m 424 -260 l
+stroke
+newpath
+424 -260 m 424 -260 l
+stroke
+newpath
+424 -260 m 424 -260 l
+stroke
+newpath
+424 -260 m 425 -260 l
+stroke
+newpath
+425 -260 m 425 -260 l
+stroke
+newpath
+425 -260 m 425 -260 l
+stroke
+newpath
+425 -260 m 425 -260 l
+stroke
+newpath
+425 -260 m 425 -260 l
+stroke
+newpath
+425 -260 m 425 -260 l
+stroke
+newpath
+425 -260 m 425 -260 l
+stroke
+newpath
+425 -260 m 425 -260 l
+stroke
+newpath
+425 -260 m 426 -260 l
+stroke
+newpath
+426 -260 m 426 -260 l
+stroke
+newpath
+426 -260 m 426 -260 l
+stroke
+newpath
+426 -260 m 426 -260 l
+stroke
+newpath
+426 -260 m 426 -260 l
+stroke
+newpath
+426 -260 m 426 -260 l
+stroke
+newpath
+426 -260 m 427 -260 l
+stroke
+newpath
+427 -260 m 427 -260 l
+stroke
+newpath
+427 -260 m 427 -260 l
+stroke
+newpath
+427 -260 m 427 -260 l
+stroke
+newpath
+427 -260 m 427 -260 l
+stroke
+newpath
+427 -260 m 427 -260 l
+stroke
+newpath
+427 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 428 -260 l
+stroke
+newpath
+428 -260 m 429 -260 l
+stroke
+newpath
+429 -260 m 429 -260 l
+stroke
+newpath
+429 -260 m 429 -260 l
+stroke
+newpath
+429 -260 m 429 -260 l
+stroke
+newpath
+429 -260 m 429 -260 l
+stroke
+newpath
+429 -260 m 429 -260 l
+stroke
+newpath
+429 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 430 -260 l
+stroke
+newpath
+430 -260 m 431 -260 l
+stroke
+newpath
+431 -260 m 431 -260 l
+stroke
+newpath
+431 -260 m 431 -260 l
+stroke
+newpath
+431 -260 m 431 -260 l
+stroke
+newpath
+431 -260 m 431 -260 l
+stroke
+newpath
+431 -260 m 431 -260 l
+stroke
+newpath
+431 -260 m 432 -260 l
+stroke
+newpath
+432 -260 m 432 -260 l
+stroke
+newpath
+432 -260 m 432 -260 l
+stroke
+newpath
+432 -260 m 432 -260 l
+stroke
+newpath
+432 -260 m 432 -260 l
+stroke
+newpath
+432 -260 m 432 -260 l
+stroke
+newpath
+432 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 433 -260 l
+stroke
+newpath
+433 -260 m 434 -260 l
+stroke
+newpath
+434 -260 m 434 -260 l
+stroke
+newpath
+434 -260 m 434 -260 l
+stroke
+newpath
+434 -260 m 434 -260 l
+stroke
+newpath
+434 -260 m 434 -260 l
+stroke
+newpath
+434 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 435 -260 l
+stroke
+newpath
+435 -260 m 436 -260 l
+stroke
+newpath
+436 -260 m 436 -260 l
+stroke
+newpath
+436 -260 m 436 -260 l
+stroke
+newpath
+436 -260 m 436 -260 l
+stroke
+newpath
+436 -260 m 436 -260 l
+stroke
+newpath
+436 -260 m 436 -260 l
+stroke
+newpath
+436 -260 m 437 -260 l
+stroke
+newpath
+437 -260 m 437 -260 l
+stroke
+newpath
+437 -260 m 437 -260 l
+stroke
+newpath
+437 -260 m 437 -260 l
+stroke
+newpath
+437 -260 m 437 -260 l
+stroke
+newpath
+437 -260 m 437 -260 l
+stroke
+newpath
+437 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 438 -260 l
+stroke
+newpath
+438 -260 m 439 -260 l
+stroke
+newpath
+439 -260 m 439 -260 l
+stroke
+newpath
+439 -260 m 439 -260 l
+stroke
+newpath
+439 -260 m 439 -260 l
+stroke
+newpath
+439 -260 m 439 -260 l
+stroke
+newpath
+439 -260 m 439 -260 l
+stroke
+newpath
+439 -260 m 440 -260 l
+stroke
+newpath
+440 -260 m 440 -260 l
+stroke
+newpath
+440 -260 m 440 -260 l
+stroke
+newpath
+440 -260 m 440 -260 l
+stroke
+newpath
+440 -260 m 440 -260 l
+stroke
+newpath
+440 -260 m 440 -260 l
+stroke
+newpath
+440 -260 m 441 -260 l
+stroke
+newpath
+441 -260 m 441 -260 l
+stroke
+newpath
+441 -260 m 441 -259 l
+stroke
+newpath
+441 -259 m 441 -259 l
+stroke
+newpath
+441 -259 m 441 -259 l
+stroke
+newpath
+441 -259 m 441 -259 l
+stroke
+newpath
+441 -259 m 441 -259 l
+stroke
+newpath
+441 -259 m 441 -259 l
+stroke
+newpath
+441 -259 m 441 -259 l
+stroke
+newpath
+441 -259 m 442 -259 l
+stroke
+newpath
+442 -259 m 442 -259 l
+stroke
+newpath
+442 -259 m 442 -259 l
+stroke
+newpath
+442 -259 m 442 -259 l
+stroke
+newpath
+442 -259 m 442 -259 l
+stroke
+newpath
+442 -259 m 442 -259 l
+stroke
+newpath
+442 -259 m 443 -259 l
+stroke
+newpath
+443 -259 m 443 -259 l
+stroke
+newpath
+443 -259 m 443 -259 l
+stroke
+newpath
+443 -259 m 443 -259 l
+stroke
+newpath
+443 -259 m 443 -259 l
+stroke
+newpath
+443 -259 m 443 -259 l
+stroke
+newpath
+443 -259 m 443 -259 l
+stroke
+newpath
+443 -259 m 443 -259 l
+stroke
+newpath
+443 -259 m 444 -259 l
+stroke
+newpath
+444 -259 m 444 -259 l
+stroke
+newpath
+444 -259 m 444 -259 l
+stroke
+newpath
+444 -259 m 444 -259 l
+stroke
+newpath
+444 -259 m 444 -259 l
+stroke
+newpath
+444 -259 m 444 -259 l
+stroke
+newpath
+444 -259 m 445 -259 l
+stroke
+newpath
+445 -259 m 445 -259 l
+stroke
+newpath
+445 -259 m 445 -259 l
+stroke
+newpath
+445 -259 m 445 -259 l
+stroke
+newpath
+445 -259 m 445 -259 l
+stroke
+newpath
+445 -259 m 445 -259 l
+stroke
+newpath
+445 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 446 -259 l
+stroke
+newpath
+446 -259 m 447 -259 l
+stroke
+newpath
+447 -259 m 447 -259 l
+stroke
+newpath
+447 -259 m 447 -259 l
+stroke
+newpath
+447 -259 m 447 -259 l
+stroke
+newpath
+447 -259 m 447 -259 l
+stroke
+newpath
+447 -259 m 447 -259 l
+stroke
+newpath
+447 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 448 -259 l
+stroke
+newpath
+448 -259 m 449 -259 l
+stroke
+newpath
+449 -259 m 449 -259 l
+stroke
+newpath
+449 -259 m 449 -259 l
+stroke
+newpath
+449 -259 m 449 -259 l
+stroke
+newpath
+449 -259 m 449 -259 l
+stroke
+newpath
+449 -259 m 449 -259 l
+stroke
+newpath
+449 -259 m 450 -259 l
+stroke
+newpath
+450 -259 m 450 -259 l
+stroke
+newpath
+450 -259 m 450 -259 l
+stroke
+newpath
+450 -259 m 450 -259 l
+stroke
+newpath
+450 -259 m 450 -259 l
+stroke
+newpath
+450 -259 m 450 -259 l
+stroke
+newpath
+450 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 451 -259 l
+stroke
+newpath
+451 -259 m 452 -259 l
+stroke
+newpath
+452 -259 m 452 -259 l
+stroke
+newpath
+452 -259 m 452 -259 l
+stroke
+newpath
+452 -259 m 452 -259 l
+stroke
+newpath
+452 -259 m 452 -259 l
+stroke
+newpath
+452 -259 m 452 -259 l
+stroke
+newpath
+452 -259 m 453 -259 l
+stroke
+newpath
+453 -259 m 453 -259 l
+stroke
+newpath
+453 -259 m 453 -259 l
+stroke
+newpath
+453 -259 m 453 -259 l
+stroke
+newpath
+453 -259 m 453 -259 l
+stroke
+newpath
+453 -259 m 453 -259 l
+stroke
+newpath
+453 -259 m 453 -259 l
+stroke
+newpath
+453 -259 m 453 -259 l
+stroke
+newpath
+453 -259 m 454 -259 l
+stroke
+newpath
+454 -259 m 454 -259 l
+stroke
+newpath
+454 -259 m 454 -259 l
+stroke
+newpath
+454 -259 m 454 -259 l
+stroke
+newpath
+454 -259 m 454 -259 l
+stroke
+newpath
+454 -259 m 454 -259 l
+stroke
+newpath
+454 -259 m 455 -259 l
+stroke
+newpath
+455 -259 m 455 -259 l
+stroke
+newpath
+455 -259 m 455 -259 l
+stroke
+newpath
+455 -259 m 455 -259 l
+stroke
+newpath
+455 -259 m 455 -259 l
+stroke
+newpath
+455 -259 m 455 -258 l
+stroke
+newpath
+455 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 456 -258 l
+stroke
+newpath
+456 -258 m 457 -258 l
+stroke
+newpath
+457 -258 m 457 -258 l
+stroke
+newpath
+457 -258 m 457 -258 l
+stroke
+newpath
+457 -258 m 457 -258 l
+stroke
+newpath
+457 -258 m 457 -258 l
+stroke
+newpath
+457 -258 m 457 -258 l
+stroke
+newpath
+457 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 458 -258 l
+stroke
+newpath
+458 -258 m 459 -258 l
+stroke
+newpath
+459 -258 m 459 -258 l
+stroke
+newpath
+459 -258 m 459 -257 l
+stroke
+newpath
+459 -257 m 459 -257 l
+stroke
+newpath
+459 -257 m 459 -257 l
+stroke
+newpath
+459 -257 m 459 -257 l
+stroke
+newpath
+459 -257 m 460 -257 l
+stroke
+newpath
+460 -257 m 460 -257 l
+stroke
+newpath
+460 -257 m 460 -257 l
+stroke
+newpath
+460 -257 m 460 -257 l
+stroke
+newpath
+460 -257 m 460 -257 l
+stroke
+newpath
+460 -257 m 460 -257 l
+stroke
+newpath
+460 -257 m 461 -257 l
+stroke
+newpath
+461 -257 m 461 -257 l
+stroke
+newpath
+461 -257 m 461 -257 l
+stroke
+newpath
+461 -257 m 461 -257 l
+stroke
+newpath
+461 -257 m 461 -257 l
+stroke
+newpath
+461 -257 m 461 -256 l
+stroke
+newpath
+461 -256 m 461 -256 l
+stroke
+newpath
+461 -256 m 461 -256 l
+stroke
+newpath
+461 -256 m 461 -256 l
+stroke
+newpath
+461 -256 m 462 -256 l
+stroke
+newpath
+462 -256 m 462 -256 l
+stroke
+newpath
+462 -256 m 462 -256 l
+stroke
+newpath
+462 -256 m 462 -256 l
+stroke
+newpath
+462 -256 m 462 -256 l
+stroke
+newpath
+462 -256 m 463 -255 l
+stroke
+newpath
+463 -255 m 463 -255 l
+stroke
+newpath
+463 -255 m 463 -255 l
+stroke
+newpath
+463 -255 m 463 -255 l
+stroke
+newpath
+463 -255 m 463 -255 l
+stroke
+newpath
+463 -255 m 463 -255 l
+stroke
+newpath
+463 -255 m 464 -255 l
+stroke
+newpath
+464 -255 m 464 -254 l
+stroke
+newpath
+464 -254 m 464 -254 l
+stroke
+newpath
+464 -254 m 464 -254 l
+stroke
+newpath
+464 -254 m 464 -254 l
+stroke
+newpath
+464 -254 m 464 -254 l
+stroke
+newpath
+464 -254 m 464 -253 l
+stroke
+newpath
+464 -253 m 464 -253 l
+stroke
+newpath
+464 -253 m 464 -252 l
+stroke
+newpath
+464 -252 m 465 -252 l
+stroke
+newpath
+465 -252 m 465 -252 l
+stroke
+newpath
+465 -252 m 465 -252 l
+stroke
+newpath
+465 -252 m 465 -251 l
+stroke
+newpath
+465 -251 m 465 -251 l
+stroke
+newpath
+465 -251 m 465 -251 l
+stroke
+newpath
+465 -251 m 466 -250 l
+stroke
+newpath
+466 -250 m 466 -250 l
+stroke
+newpath
+466 -250 m 466 -250 l
+stroke
+newpath
+466 -250 m 466 -249 l
+stroke
+newpath
+466 -249 m 466 -249 l
+stroke
+newpath
+466 -249 m 466 -248 l
+stroke
+newpath
+466 -248 m 466 -248 l
+stroke
+newpath
+466 -248 m 466 -247 l
+stroke
+newpath
+466 -247 m 466 -247 l
+stroke
+newpath
+466 -247 m 467 -246 l
+stroke
+newpath
+467 -246 m 467 -246 l
+stroke
+newpath
+467 -246 m 467 -245 l
+stroke
+newpath
+467 -245 m 467 -244 l
+stroke
+newpath
+467 -244 m 467 -244 l
+stroke
+newpath
+467 -244 m 467 -243 l
+stroke
+newpath
+467 -243 m 468 -242 l
+stroke
+newpath
+468 -242 m 468 -241 l
+stroke
+newpath
+468 -241 m 468 -240 l
+stroke
+newpath
+468 -240 m 468 -239 l
+stroke
+newpath
+468 -239 m 468 -238 l
+stroke
+newpath
+468 -238 m 468 -237 l
+stroke
+newpath
+468 -237 m 469 -236 l
+stroke
+newpath
+469 -236 m 469 -234 l
+stroke
+newpath
+469 -234 m 469 -233 l
+stroke
+newpath
+469 -233 m 469 -232 l
+stroke
+newpath
+469 -232 m 469 -230 l
+stroke
+newpath
+469 -230 m 469 -228 l
+stroke
+newpath
+469 -228 m 469 -227 l
+stroke
+newpath
+469 -227 m 469 -225 l
+stroke
+newpath
+469 -225 m 469 -224 l
+stroke
+newpath
+469 -224 m 470 -222 l
+stroke
+newpath
+470 -222 m 470 -221 l
+stroke
+newpath
+470 -221 m 470 -219 l
+stroke
+newpath
+470 -219 m 470 -217 l
+stroke
+newpath
+470 -217 m 470 -216 l
+stroke
+newpath
+470 -216 m 470 -215 l
+stroke
+newpath
+470 -215 m 471 -214 l
+stroke
+newpath
+471 -214 m 471 -213 l
+stroke
+newpath
+471 -213 m 471 -212 l
+stroke
+newpath
+471 -212 m 471 -211 l
+stroke
+newpath
+471 -211 m 471 -211 l
+stroke
+newpath
+471 -211 m 471 -211 l
+stroke
+newpath
+471 -211 m 471 -211 l
+stroke
+newpath
+471 -211 m 471 -211 l
+stroke
+newpath
+471 -211 m 472 -211 l
+stroke
+newpath
+472 -211 m 472 -212 l
+stroke
+newpath
+472 -212 m 472 -213 l
+stroke
+newpath
+472 -213 m 472 -214 l
+stroke
+newpath
+472 -214 m 472 -215 l
+stroke
+newpath
+472 -215 m 472 -217 l
+stroke
+newpath
+472 -217 m 473 -218 l
+stroke
+newpath
+473 -218 m 473 -220 l
+stroke
+newpath
+473 -220 m 473 -222 l
+stroke
+newpath
+473 -222 m 473 -223 l
+stroke
+newpath
+473 -223 m 473 -225 l
+stroke
+newpath
+473 -225 m 473 -226 l
+stroke
+newpath
+473 -226 m 474 -228 l
+stroke
+newpath
+474 -228 m 474 -229 l
+stroke
+newpath
+474 -229 m 474 -231 l
+stroke
+newpath
+474 -231 m 474 -232 l
+stroke
+newpath
+474 -232 m 474 -234 l
+stroke
+newpath
+474 -234 m 474 -235 l
+stroke
+newpath
+474 -235 m 474 -236 l
+stroke
+newpath
+474 -236 m 474 -237 l
+stroke
+newpath
+474 -237 m 474 -238 l
+stroke
+newpath
+474 -238 m 475 -239 l
+stroke
+newpath
+475 -239 m 475 -240 l
+stroke
+newpath
+475 -240 m 475 -241 l
+stroke
+newpath
+475 -241 m 475 -242 l
+stroke
+newpath
+475 -242 m 475 -243 l
+stroke
+newpath
+475 -243 m 475 -244 l
+stroke
+newpath
+475 -244 m 476 -245 l
+stroke
+newpath
+476 -245 m 476 -245 l
+stroke
+newpath
+476 -245 m 476 -246 l
+stroke
+newpath
+476 -246 m 476 -247 l
+stroke
+newpath
+476 -247 m 476 -247 l
+stroke
+newpath
+476 -247 m 476 -248 l
+stroke
+newpath
+476 -248 m 476 -248 l
+stroke
+newpath
+476 -248 m 476 -249 l
+stroke
+newpath
+476 -249 m 476 -249 l
+stroke
+newpath
+476 -249 m 477 -249 l
+stroke
+newpath
+477 -249 m 477 -250 l
+stroke
+newpath
+477 -250 m 477 -250 l
+stroke
+newpath
+477 -250 m 477 -251 l
+stroke
+newpath
+477 -251 m 477 -251 l
+stroke
+newpath
+477 -251 m 477 -251 l
+stroke
+newpath
+477 -251 m 478 -252 l
+stroke
+newpath
+478 -252 m 478 -252 l
+stroke
+newpath
+478 -252 m 478 -252 l
+stroke
+newpath
+478 -252 m 478 -252 l
+stroke
+newpath
+478 -252 m 478 -253 l
+stroke
+newpath
+478 -253 m 478 -253 l
+stroke
+newpath
+478 -253 m 479 -254 l
+stroke
+newpath
+479 -254 m 479 -254 l
+stroke
+newpath
+479 -254 m 479 -254 l
+stroke
+newpath
+479 -254 m 479 -254 l
+stroke
+newpath
+479 -254 m 479 -254 l
+stroke
+newpath
+479 -254 m 479 -255 l
+stroke
+newpath
+479 -255 m 479 -255 l
+stroke
+newpath
+479 -255 m 479 -255 l
+stroke
+newpath
+479 -255 m 479 -255 l
+stroke
+newpath
+479 -255 m 480 -255 l
+stroke
+newpath
+480 -255 m 480 -255 l
+stroke
+newpath
+480 -255 m 480 -255 l
+stroke
+newpath
+480 -255 m 480 -256 l
+stroke
+newpath
+480 -256 m 480 -256 l
+stroke
+newpath
+480 -256 m 481 -256 l
+stroke
+newpath
+481 -256 m 481 -256 l
+stroke
+newpath
+481 -256 m 481 -256 l
+stroke
+newpath
+481 -256 m 481 -256 l
+stroke
+newpath
+481 -256 m 481 -256 l
+stroke
+newpath
+481 -256 m 481 -256 l
+stroke
+newpath
+481 -256 m 482 -256 l
+stroke
+newpath
+482 -256 m 482 -256 l
+stroke
+newpath
+482 -256 m 482 -257 l
+stroke
+newpath
+482 -257 m 482 -257 l
+stroke
+newpath
+482 -257 m 482 -257 l
+stroke
+newpath
+482 -257 m 482 -257 l
+stroke
+newpath
+482 -257 m 482 -257 l
+stroke
+newpath
+482 -257 m 482 -257 l
+stroke
+newpath
+482 -257 m 482 -257 l
+stroke
+newpath
+482 -257 m 483 -257 l
+stroke
+newpath
+483 -257 m 483 -257 l
+stroke
+newpath
+483 -257 m 483 -257 l
+stroke
+newpath
+483 -257 m 483 -257 l
+stroke
+newpath
+483 -257 m 483 -257 l
+stroke
+newpath
+483 -257 m 483 -257 l
+stroke
+newpath
+483 -257 m 484 -257 l
+stroke
+newpath
+484 -257 m 484 -258 l
+stroke
+newpath
+484 -258 m 484 -258 l
+stroke
+newpath
+484 -258 m 484 -258 l
+stroke
+newpath
+484 -258 m 484 -258 l
+stroke
+newpath
+484 -258 m 484 -258 l
+stroke
+newpath
+484 -258 m 484 -258 l
+stroke
+newpath
+484 -258 m 484 -258 l
+stroke
+newpath
+484 -258 m 484 -258 l
+stroke
+newpath
+484 -258 m 485 -258 l
+stroke
+newpath
+485 -258 m 485 -258 l
+stroke
+newpath
+485 -258 m 485 -258 l
+stroke
+newpath
+485 -258 m 485 -258 l
+stroke
+newpath
+485 -258 m 485 -258 l
+stroke
+newpath
+485 -258 m 485 -258 l
+stroke
+newpath
+485 -258 m 486 -258 l
+stroke
+newpath
+486 -258 m 486 -258 l
+stroke
+newpath
+486 -258 m 486 -258 l
+stroke
+newpath
+486 -258 m 486 -258 l
+stroke
+newpath
+486 -258 m 486 -258 l
+stroke
+newpath
+486 -258 m 486 -258 l
+stroke
+newpath
+486 -258 m 487 -258 l
+stroke
+newpath
+487 -258 m 487 -258 l
+stroke
+newpath
+487 -258 m 487 -258 l
+stroke
+newpath
+487 -258 m 487 -258 l
+stroke
+newpath
+487 -258 m 487 -258 l
+stroke
+newpath
+487 -258 m 487 -258 l
+stroke
+newpath
+487 -258 m 487 -258 l
+stroke
+newpath
+487 -258 m 487 -258 l
+stroke
+newpath
+487 -258 m 487 -259 l
+stroke
+newpath
+487 -259 m 488 -259 l
+stroke
+newpath
+488 -259 m 488 -259 l
+stroke
+newpath
+488 -259 m 488 -259 l
+stroke
+newpath
+488 -259 m 488 -259 l
+stroke
+newpath
+488 -259 m 488 -259 l
+stroke
+newpath
+488 -259 m 488 -259 l
+stroke
+newpath
+488 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 489 -259 l
+stroke
+newpath
+489 -259 m 490 -259 l
+stroke
+newpath
+490 -259 m 490 -259 l
+stroke
+newpath
+490 -259 m 490 -259 l
+stroke
+newpath
+490 -259 m 490 -259 l
+stroke
+newpath
+490 -259 m 490 -259 l
+stroke
+newpath
+490 -259 m 491 -259 l
+stroke
+newpath
+491 -259 m 491 -259 l
+stroke
+newpath
+491 -259 m 491 -259 l
+stroke
+newpath
+491 -259 m 491 -259 l
+stroke
+newpath
+491 -259 m 491 -259 l
+stroke
+newpath
+491 -259 m 491 -259 l
+stroke
+newpath
+491 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 492 -259 l
+stroke
+newpath
+492 -259 m 493 -259 l
+stroke
+newpath
+493 -259 m 493 -259 l
+stroke
+newpath
+493 -259 m 493 -259 l
+stroke
+newpath
+493 -259 m 493 -259 l
+stroke
+newpath
+493 -259 m 493 -259 l
+stroke
+newpath
+493 -259 m 493 -259 l
+stroke
+newpath
+493 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 494 -259 l
+stroke
+newpath
+494 -259 m 495 -259 l
+stroke
+newpath
+495 -259 m 495 -259 l
+stroke
+newpath
+495 -259 m 495 -259 l
+stroke
+newpath
+495 -259 m 495 -259 l
+stroke
+newpath
+495 -259 m 495 -259 l
+stroke
+newpath
+495 -259 m 495 -259 l
+stroke
+newpath
+495 -259 m 496 -259 l
+stroke
+newpath
+496 -259 m 496 -259 l
+stroke
+newpath
+496 -259 m 496 -259 l
+stroke
+newpath
+496 -259 m 496 -259 l
+stroke
+newpath
+496 -259 m 496 -259 l
+stroke
+newpath
+496 -259 m 496 -259 l
+stroke
+newpath
+496 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 497 -259 l
+stroke
+newpath
+497 -259 m 498 -259 l
+stroke
+newpath
+498 -259 m 498 -259 l
+stroke
+newpath
+498 -259 m 498 -259 l
+stroke
+newpath
+498 -259 m 498 -259 l
+stroke
+newpath
+498 -259 m 498 -259 l
+stroke
+newpath
+498 -259 m 498 -259 l
+stroke
+newpath
+498 -259 m 499 -259 l
+stroke
+newpath
+499 -259 m 499 -259 l
+stroke
+newpath
+499 -259 m 499 -259 l
+stroke
+newpath
+499 -259 m 499 -259 l
+stroke
+newpath
+499 -259 m 499 -259 l
+stroke
+newpath
+499 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 500 -259 l
+stroke
+newpath
+500 -259 m 501 -259 l
+stroke
+newpath
+501 -259 m 501 -259 l
+stroke
+newpath
+501 -259 m 501 -259 l
+stroke
+newpath
+501 -259 m 501 -259 l
+stroke
+newpath
+501 -259 m 501 -259 l
+stroke
+newpath
+501 -259 m 501 -259 l
+stroke
+newpath
+501 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 502 -259 l
+stroke
+newpath
+502 -259 m 503 -259 l
+stroke
+newpath
+503 -259 m 503 -260 l
+stroke
+newpath
+503 -260 m 503 -260 l
+stroke
+newpath
+503 -260 m 503 -260 l
+stroke
+newpath
+503 -260 m 503 -260 l
+stroke
+newpath
+503 -260 m 503 -260 l
+stroke
+newpath
+503 -260 m 504 -260 l
+stroke
+newpath
+504 -260 m 504 -260 l
+stroke
+newpath
+504 -260 m 504 -260 l
+stroke
+newpath
+504 -260 m 504 -260 l
+stroke
+newpath
+504 -260 m 504 -260 l
+stroke
+newpath
+504 -260 m 504 -260 l
+stroke
+newpath
+504 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 505 -260 l
+stroke
+newpath
+505 -260 m 506 -260 l
+stroke
+newpath
+506 -260 m 506 -260 l
+stroke
+newpath
+506 -260 m 506 -260 l
+stroke
+newpath
+506 -260 m 506 -260 l
+stroke
+newpath
+506 -260 m 506 -260 l
+stroke
+newpath
+506 -260 m 506 -260 l
+stroke
+newpath
+506 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 507 -260 l
+stroke
+newpath
+507 -260 m 508 -260 l
+stroke
+newpath
+508 -260 m 508 -260 l
+stroke
+newpath
+508 -260 m 508 -260 l
+stroke
+newpath
+508 -260 m 508 -260 l
+stroke
+newpath
+508 -260 m 508 -260 l
+stroke
+newpath
+508 -260 m 509 -260 l
+stroke
+newpath
+509 -260 m 509 -260 l
+stroke
+newpath
+509 -260 m 509 -260 l
+stroke
+newpath
+509 -260 m 509 -260 l
+stroke
+newpath
+509 -260 m 509 -260 l
+stroke
+newpath
+509 -260 m 509 -260 l
+stroke
+newpath
+509 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 510 -260 l
+stroke
+newpath
+510 -260 m 511 -260 l
+stroke
+newpath
+511 -260 m 511 -260 l
+stroke
+newpath
+511 -260 m 511 -260 l
+stroke
+newpath
+511 -260 m 511 -260 l
+stroke
+newpath
+511 -260 m 511 -260 l
+stroke
+newpath
+511 -260 m 511 -260 l
+stroke
+newpath
+511 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 512 -260 l
+stroke
+newpath
+512 -260 m 513 -260 l
+stroke
+newpath
+513 -260 m 513 -260 l
+stroke
+newpath
+513 -260 m 513 -260 l
+stroke
+newpath
+513 -260 m 513 -260 l
+stroke
+newpath
+513 -260 m 513 -260 l
+stroke
+newpath
+513 -260 m 513 -260 l
+stroke
+newpath
+513 -260 m 514 -260 l
+stroke
+newpath
+514 -260 m 514 -260 l
+stroke
+newpath
+514 -260 m 514 -260 l
+stroke
+newpath
+514 -260 m 514 -260 l
+stroke
+newpath
+514 -260 m 514 -260 l
+stroke
+newpath
+514 -260 m 514 -260 l
+stroke
+newpath
+514 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 515 -260 l
+stroke
+newpath
+515 -260 m 516 -260 l
+stroke
+newpath
+516 -260 m 516 -260 l
+stroke
+newpath
+516 -260 m 516 -260 l
+stroke
+newpath
+516 -260 m 516 -260 l
+stroke
+newpath
+516 -260 m 516 -260 l
+stroke
+newpath
+516 -260 m 516 -260 l
+stroke
+newpath
+516 -260 m 517 -260 l
+stroke
+newpath
+517 -260 m 517 -260 l
+stroke
+newpath
+517 -260 m 517 -260 l
+stroke
+newpath
+517 -260 m 517 -260 l
+stroke
+newpath
+517 -260 m 517 -260 l
+stroke
+newpath
+517 -260 m 517 -260 l
+stroke
+newpath
+517 -260 m 517 -260 l
+stroke
+newpath
+517 -260 m 517 -260 l
+stroke
+newpath
+517 -260 m 518 -260 l
+stroke
+newpath
+518 -260 m 518 -260 l
+stroke
+newpath
+518 -260 m 518 -260 l
+stroke
+newpath
+518 -260 m 518 -260 l
+stroke
+newpath
+518 -260 m 518 -260 l
+stroke
+newpath
+518 -260 m 518 -260 l
+stroke
+newpath
+518 -260 m 519 -260 l
+stroke
+newpath
+519 -260 m 519 -260 l
+stroke
+newpath
+519 -260 m 519 -260 l
+stroke
+newpath
+519 -260 m 519 -260 l
+stroke
+newpath
+519 -260 m 519 -260 l
+stroke
+newpath
+519 -260 m 519 -260 l
+stroke
+newpath
+519 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 520 -260 l
+stroke
+newpath
+520 -260 m 521 -260 l
+stroke
+newpath
+521 -260 m 521 -260 l
+stroke
+newpath
+521 -260 m 521 -260 l
+stroke
+newpath
+521 -260 m 521 -260 l
+stroke
+newpath
+521 -260 m 521 -260 l
+stroke
+newpath
+521 -260 m 521 -260 l
+stroke
+newpath
+521 -260 m 522 -260 l
+stroke
+newpath
+522 -260 m 522 -260 l
+stroke
+newpath
+522 -260 m 522 -260 l
+stroke
+newpath
+522 -260 m 522 -260 l
+stroke
+newpath
+522 -260 m 522 -260 l
+stroke
+newpath
+522 -260 m 522 -260 l
+stroke
+newpath
+522 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 523 -260 l
+stroke
+newpath
+523 -260 m 524 -260 l
+stroke
+newpath
+524 -260 m 524 -260 l
+stroke
+newpath
+524 -260 m 524 -260 l
+stroke
+newpath
+524 -260 m 524 -260 l
+stroke
+newpath
+524 -260 m 524 -260 l
+stroke
+newpath
+524 -260 m 524 -260 l
+stroke
+newpath
+524 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 525 -260 l
+stroke
+newpath
+525 -260 m 526 -260 l
+stroke
+newpath
+526 -260 m 526 -260 l
+stroke
+newpath
+526 -260 m 526 -260 l
+stroke
+newpath
+526 -260 m 526 -260 l
+stroke
+newpath
+526 -260 m 526 -260 l
+stroke
+newpath
+526 -260 m 526 -260 l
+stroke
+newpath
+526 -260 m 527 -260 l
+stroke
+newpath
+527 -260 m 527 -260 l
+stroke
+newpath
+527 -260 m 527 -260 l
+stroke
+newpath
+527 -260 m 527 -260 l
+stroke
+newpath
+527 -260 m 527 -260 l
+stroke
+newpath
+527 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 528 -260 l
+stroke
+newpath
+528 -260 m 529 -260 l
+stroke
+newpath
+529 -260 m 529 -260 l
+stroke
+newpath
+529 -260 m 529 -260 l
+stroke
+newpath
+529 -260 m 529 -260 l
+stroke
+newpath
+529 -260 m 529 -260 l
+stroke
+newpath
+529 -260 m 529 -260 l
+stroke
+newpath
+529 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 530 -260 l
+stroke
+newpath
+530 -260 m 531 -260 l
+stroke
+newpath
+531 -260 m 531 -260 l
+stroke
+newpath
+531 -260 m 531 -260 l
+stroke
+newpath
+531 -260 m 531 -260 l
+stroke
+newpath
+531 -260 m 531 -260 l
+stroke
+newpath
+531 -260 m 531 -260 l
+stroke
+newpath
+531 -260 m 532 -260 l
+stroke
+newpath
+532 -260 m 532 -260 l
+stroke
+newpath
+532 -260 m 532 -260 l
+stroke
+newpath
+532 -260 m 532 -260 l
+stroke
+newpath
+532 -260 m 532 -260 l
+stroke
+newpath
+532 -260 m 532 -260 l
+stroke
+newpath
+532 -260 m 533 -260 l
+stroke
+newpath
+533 -260 m 533 -260 l
+stroke
+newpath
+533 -260 m 533 -260 l
+stroke
+newpath
+533 -260 m 533 -259 l
+stroke
+newpath
+533 -259 m 533 -259 l
+stroke
+newpath
+533 -259 m 533 -259 l
+stroke
+newpath
+533 -259 m 533 -259 l
+stroke
+newpath
+533 -259 m 533 -259 l
+stroke
+newpath
+533 -259 m 533 -259 l
+stroke
+newpath
+533 -259 m 534 -259 l
+stroke
+newpath
+534 -259 m 534 -259 l
+stroke
+newpath
+534 -259 m 534 -259 l
+stroke
+newpath
+534 -259 m 534 -259 l
+stroke
+newpath
+534 -259 m 534 -259 l
+stroke
+newpath
+534 -259 m 534 -259 l
+stroke
+newpath
+534 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 535 -259 l
+stroke
+newpath
+535 -259 m 536 -259 l
+stroke
+newpath
+536 -259 m 536 -259 l
+stroke
+newpath
+536 -259 m 536 -259 l
+stroke
+newpath
+536 -259 m 536 -259 l
+stroke
+newpath
+536 -259 m 536 -259 l
+stroke
+newpath
+536 -259 m 537 -259 l
+stroke
+newpath
+537 -259 m 537 -259 l
+stroke
+newpath
+537 -259 m 537 -259 l
+stroke
+newpath
+537 -259 m 537 -259 l
+stroke
+newpath
+537 -259 m 537 -259 l
+stroke
+newpath
+537 -259 m 537 -259 l
+stroke
+newpath
+537 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 538 -259 l
+stroke
+newpath
+538 -259 m 539 -259 l
+stroke
+newpath
+539 -259 m 539 -259 l
+stroke
+newpath
+539 -259 m 539 -259 l
+stroke
+newpath
+539 -259 m 539 -259 l
+stroke
+newpath
+539 -259 m 539 -259 l
+stroke
+newpath
+539 -259 m 539 -259 l
+stroke
+newpath
+539 -259 m 540 -259 l
+stroke
+newpath
+540 -259 m 540 -259 l
+stroke
+newpath
+540 -259 m 540 -259 l
+stroke
+newpath
+540 -259 m 540 -259 l
+stroke
+newpath
+540 -259 m 540 -259 l
+stroke
+newpath
+540 -259 m 540 -259 l
+stroke
+newpath
+540 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 541 -259 l
+stroke
+newpath
+541 -259 m 542 -259 l
+stroke
+newpath
+542 -259 m 542 -259 l
+stroke
+newpath
+542 -259 m 542 -259 l
+stroke
+newpath
+542 -259 m 542 -259 l
+stroke
+newpath
+542 -259 m 542 -259 l
+stroke
+newpath
+542 -259 m 542 -259 l
+stroke
+newpath
+542 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 543 -259 l
+stroke
+newpath
+543 -259 m 544 -259 l
+stroke
+newpath
+544 -259 m 544 -259 l
+stroke
+newpath
+544 -259 m 544 -259 l
+stroke
+newpath
+544 -259 m 544 -259 l
+stroke
+newpath
+544 -259 m 544 -259 l
+stroke
+newpath
+544 -259 m 544 -259 l
+stroke
+newpath
+544 -259 m 545 -259 l
+stroke
+newpath
+545 -259 m 545 -259 l
+stroke
+newpath
+545 -259 m 545 -259 l
+stroke
+newpath
+545 -259 m 545 -259 l
+stroke
+newpath
+545 -259 m 545 -259 l
+stroke
+newpath
+545 -259 m 545 -259 l
+stroke
+newpath
+545 -259 m 546 -259 l
+stroke
+newpath
+546 -259 m 546 -259 l
+stroke
+newpath
+546 -259 m 546 -259 l
+stroke
+newpath
+546 -259 m 546 -259 l
+stroke
+newpath
+546 -259 m 546 -259 l
+stroke
+newpath
+546 -259 m 546 -259 l
+stroke
+newpath
+546 -259 m 546 -259 l
+stroke
+newpath
+546 -259 m 546 -259 l
+stroke
+newpath
+546 -259 m 547 -259 l
+stroke
+newpath
+547 -259 m 547 -258 l
+stroke
+newpath
+547 -258 m 547 -258 l
+stroke
+newpath
+547 -258 m 547 -258 l
+stroke
+newpath
+547 -258 m 547 -258 l
+stroke
+newpath
+547 -258 m 547 -258 l
+stroke
+newpath
+547 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 548 -258 l
+stroke
+newpath
+548 -258 m 549 -258 l
+stroke
+newpath
+549 -258 m 549 -258 l
+stroke
+newpath
+549 -258 m 549 -258 l
+stroke
+newpath
+549 -258 m 549 -258 l
+stroke
+newpath
+549 -258 m 549 -258 l
+stroke
+newpath
+549 -258 m 549 -258 l
+stroke
+newpath
+549 -258 m 550 -258 l
+stroke
+newpath
+550 -258 m 550 -258 l
+stroke
+newpath
+550 -258 m 550 -258 l
+stroke
+newpath
+550 -258 m 550 -258 l
+stroke
+newpath
+550 -258 m 550 -258 l
+stroke
+newpath
+550 -258 m 550 -257 l
+stroke
+newpath
+550 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 551 -257 l
+stroke
+newpath
+551 -257 m 552 -257 l
+stroke
+newpath
+552 -257 m 552 -257 l
+stroke
+newpath
+552 -257 m 552 -256 l
+stroke
+newpath
+552 -256 m 552 -256 l
+stroke
+newpath
+552 -256 m 552 -256 l
+stroke
+newpath
+552 -256 m 552 -256 l
+stroke
+newpath
+552 -256 m 553 -256 l
+stroke
+newpath
+553 -256 m 553 -256 l
+stroke
+newpath
+553 -256 m 553 -256 l
+stroke
+newpath
+553 -256 m 553 -256 l
+stroke
+newpath
+553 -256 m 553 -255 l
+stroke
+newpath
+553 -255 m 553 -255 l
+stroke
+newpath
+553 -255 m 553 -255 l
+stroke
+newpath
+553 -255 m 553 -255 l
+stroke
+newpath
+553 -255 m 553 -255 l
+stroke
+newpath
+553 -255 m 554 -255 l
+stroke
+newpath
+554 -255 m 554 -254 l
+stroke
+newpath
+554 -254 m 554 -254 l
+stroke
+newpath
+554 -254 m 554 -254 l
+stroke
+newpath
+554 -254 m 554 -254 l
+stroke
+newpath
+554 -254 m 554 -253 l
+stroke
+newpath
+554 -253 m 555 -253 l
+stroke
+newpath
+555 -253 m 555 -252 l
+stroke
+newpath
+555 -252 m 555 -252 l
+stroke
+newpath
+555 -252 m 555 -252 l
+stroke
+newpath
+555 -252 m 555 -251 l
+stroke
+newpath
+555 -251 m 556 -251 l
+stroke
+newpath
+556 -251 m 556 -251 l
+stroke
+newpath
+556 -251 m 556 -250 l
+stroke
+newpath
+556 -250 m 556 -250 l
+stroke
+newpath
+556 -250 m 556 -249 l
+stroke
+newpath
+556 -249 m 556 -249 l
+stroke
+newpath
+556 -249 m 556 -248 l
+stroke
+newpath
+556 -248 m 556 -248 l
+stroke
+newpath
+556 -248 m 556 -247 l
+stroke
+newpath
+556 -247 m 557 -246 l
+stroke
+newpath
+557 -246 m 557 -246 l
+stroke
+newpath
+557 -246 m 557 -245 l
+stroke
+newpath
+557 -245 m 557 -244 l
+stroke
+newpath
+557 -244 m 557 -244 l
+stroke
+newpath
+557 -244 m 557 -243 l
+stroke
+newpath
+557 -243 m 558 -242 l
+stroke
+newpath
+558 -242 m 558 -241 l
+stroke
+newpath
+558 -241 m 558 -240 l
+stroke
+newpath
+558 -240 m 558 -239 l
+stroke
+newpath
+558 -239 m 558 -238 l
+stroke
+newpath
+558 -238 m 558 -237 l
+stroke
+newpath
+558 -237 m 558 -237 l
+stroke
+newpath
+558 -237 m 558 -236 l
+stroke
+newpath
+558 -236 m 558 -235 l
+stroke
+newpath
+558 -235 m 559 -234 l
+stroke
+newpath
+559 -234 m 559 -234 l
+stroke
+newpath
+559 -234 m 559 -233 l
+stroke
+newpath
+559 -233 m 559 -233 l
+stroke
+newpath
+559 -233 m 559 -232 l
+stroke
+newpath
+559 -232 m 559 -232 l
+stroke
+newpath
+559 -232 m 560 -232 l
+stroke
+newpath
+560 -232 m 560 -232 l
+stroke
+newpath
+560 -232 m 560 -232 l
+stroke
+newpath
+560 -232 m 560 -232 l
+stroke
+newpath
+560 -232 m 560 -233 l
+stroke
+newpath
+560 -233 m 560 -233 l
+stroke
+newpath
+560 -233 m 561 -234 l
+stroke
+newpath
+561 -234 m 561 -235 l
+stroke
+newpath
+561 -235 m 561 -235 l
+stroke
+newpath
+561 -235 m 561 -236 l
+stroke
+newpath
+561 -236 m 561 -237 l
+stroke
+newpath
+561 -237 m 561 -238 l
+stroke
+newpath
+561 -238 m 561 -239 l
+stroke
+newpath
+561 -239 m 561 -239 l
+stroke
+newpath
+561 -239 m 561 -240 l
+stroke
+newpath
+561 -240 m 562 -241 l
+stroke
+newpath
+562 -241 m 562 -242 l
+stroke
+newpath
+562 -242 m 562 -243 l
+stroke
+newpath
+562 -243 m 562 -244 l
+stroke
+newpath
+562 -244 m 562 -245 l
+stroke
+newpath
+562 -245 m 562 -245 l
+stroke
+newpath
+562 -245 m 563 -246 l
+stroke
+newpath
+563 -246 m 563 -247 l
+stroke
+newpath
+563 -247 m 563 -247 l
+stroke
+newpath
+563 -247 m 563 -248 l
+stroke
+newpath
+563 -248 m 563 -248 l
+stroke
+newpath
+563 -248 m 563 -249 l
+stroke
+newpath
+563 -249 m 564 -249 l
+stroke
+newpath
+564 -249 m 564 -249 l
+stroke
+newpath
+564 -249 m 564 -250 l
+stroke
+newpath
+564 -250 m 564 -250 l
+stroke
+newpath
+564 -250 m 564 -251 l
+stroke
+newpath
+564 -251 m 564 -251 l
+stroke
+newpath
+564 -251 m 564 -251 l
+stroke
+newpath
+564 -251 m 564 -252 l
+stroke
+newpath
+564 -252 m 565 -252 l
+stroke
+newpath
+565 -252 m 565 -252 l
+stroke
+newpath
+565 -252 m 565 -252 l
+stroke
+newpath
+565 -252 m 565 -253 l
+stroke
+newpath
+565 -253 m 565 -253 l
+stroke
+newpath
+565 -253 m 565 -253 l
+stroke
+newpath
+565 -253 m 566 -254 l
+stroke
+newpath
+566 -254 m 566 -254 l
+stroke
+newpath
+566 -254 m 566 -254 l
+stroke
+newpath
+566 -254 m 566 -254 l
+stroke
+newpath
+566 -254 m 566 -254 l
+stroke
+newpath
+566 -254 m 566 -254 l
+stroke
+newpath
+566 -254 m 566 -254 l
+stroke
+newpath
+566 -254 m 566 -255 l
+stroke
+newpath
+566 -255 m 566 -255 l
+stroke
+newpath
+566 -255 m 567 -255 l
+stroke
+newpath
+567 -255 m 567 -255 l
+stroke
+newpath
+567 -255 m 567 -255 l
+stroke
+newpath
+567 -255 m 567 -255 l
+stroke
+newpath
+567 -255 m 567 -255 l
+stroke
+newpath
+567 -255 m 567 -255 l
+stroke
+newpath
+567 -255 m 568 -255 l
+stroke
+newpath
+568 -255 m 568 -255 l
+stroke
+newpath
+568 -255 m 568 -255 l
+stroke
+newpath
+568 -255 m 568 -255 l
+stroke
+newpath
+568 -255 m 568 -255 l
+stroke
+newpath
+568 -255 m 568 -255 l
+stroke
+newpath
+568 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 569 -255 l
+stroke
+newpath
+569 -255 m 570 -255 l
+stroke
+newpath
+570 -255 m 570 -255 l
+stroke
+newpath
+570 -255 m 570 -255 l
+stroke
+newpath
+570 -255 m 570 -255 l
+stroke
+newpath
+570 -255 m 570 -255 l
+stroke
+newpath
+570 -255 m 570 -255 l
+stroke
+newpath
+570 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 571 -255 l
+stroke
+newpath
+571 -255 m 572 -254 l
+stroke
+newpath
+572 -254 m 572 -254 l
+stroke
+newpath
+572 -254 m 572 -254 l
+stroke
+newpath
+572 -254 m 572 -254 l
+stroke
+newpath
+572 -254 m 572 -254 l
+stroke
+newpath
+572 -254 m 572 -254 l
+stroke
+newpath
+572 -254 m 573 -254 l
+stroke
+newpath
+573 -254 m 573 -253 l
+stroke
+newpath
+573 -253 m 573 -253 l
+stroke
+newpath
+573 -253 m 573 -253 l
+stroke
+newpath
+573 -253 m 573 -252 l
+stroke
+newpath
+573 -252 m 574 -252 l
+stroke
+newpath
+574 -252 m 574 -252 l
+stroke
+newpath
+574 -252 m 574 -252 l
+stroke
+newpath
+574 -252 m 574 -251 l
+stroke
+newpath
+574 -251 m 574 -251 l
+stroke
+newpath
+574 -251 m 574 -251 l
+stroke
+newpath
+574 -251 m 574 -250 l
+stroke
+newpath
+574 -250 m 574 -250 l
+stroke
+newpath
+574 -250 m 574 -250 l
+stroke
+newpath
+574 -250 m 575 -249 l
+stroke
+newpath
+575 -249 m 575 -249 l
+stroke
+newpath
+575 -249 m 575 -248 l
+stroke
+newpath
+575 -248 m 575 -248 l
+stroke
+newpath
+575 -248 m 575 -247 l
+stroke
+newpath
+575 -247 m 575 -247 l
+stroke
+newpath
+575 -247 m 576 -246 l
+stroke
+newpath
+576 -246 m 576 -245 l
+stroke
+newpath
+576 -245 m 576 -245 l
+stroke
+newpath
+576 -245 m 576 -244 l
+stroke
+newpath
+576 -244 m 576 -243 l
+stroke
+newpath
+576 -243 m 576 -243 l
+stroke
+newpath
+576 -243 m 576 -241 l
+stroke
+newpath
+576 -241 m 576 -240 l
+stroke
+newpath
+576 -240 m 576 -240 l
+stroke
+newpath
+576 -240 m 577 -239 l
+stroke
+newpath
+577 -239 m 577 -238 l
+stroke
+newpath
+577 -238 m 577 -237 l
+stroke
+newpath
+577 -237 m 577 -236 l
+stroke
+newpath
+577 -236 m 577 -235 l
+stroke
+newpath
+577 -235 m 577 -234 l
+stroke
+newpath
+577 -234 m 578 -233 l
+stroke
+newpath
+578 -233 m 578 -232 l
+stroke
+newpath
+578 -232 m 578 -232 l
+stroke
+newpath
+578 -232 m 578 -231 l
+stroke
+newpath
+578 -231 m 578 -230 l
+stroke
+newpath
+578 -230 m 578 -229 l
+stroke
+newpath
+578 -229 m 579 -229 l
+stroke
+newpath
+579 -229 m 579 -229 l
+stroke
+newpath
+579 -229 m 579 -229 l
+stroke
+newpath
+579 -229 m 579 -229 l
+stroke
+newpath
+579 -229 m 579 -229 l
+stroke
+newpath
+579 -229 m 579 -230 l
+stroke
+newpath
+579 -230 m 579 -231 l
+stroke
+newpath
+579 -231 m 579 -231 l
+stroke
+newpath
+579 -231 m 579 -232 l
+stroke
+newpath
+579 -232 m 580 -233 l
+stroke
+newpath
+580 -233 m 580 -234 l
+stroke
+newpath
+580 -234 m 580 -235 l
+stroke
+newpath
+580 -235 m 580 -235 l
+stroke
+newpath
+580 -235 m 580 -236 l
+stroke
+newpath
+580 -236 m 580 -237 l
+stroke
+newpath
+580 -237 m 581 -238 l
+stroke
+newpath
+581 -238 m 581 -239 l
+stroke
+newpath
+581 -239 m 581 -240 l
+stroke
+newpath
+581 -240 m 581 -241 l
+stroke
+newpath
+581 -241 m 581 -242 l
+stroke
+newpath
+581 -242 m 581 -243 l
+stroke
+newpath
+581 -243 m 582 -244 l
+stroke
+newpath
+582 -244 m 582 -245 l
+stroke
+newpath
+582 -245 m 582 -245 l
+stroke
+newpath
+582 -245 m 582 -246 l
+stroke
+newpath
+582 -246 m 582 -247 l
+stroke
+newpath
+582 -247 m 582 -247 l
+stroke
+newpath
+582 -247 m 582 -248 l
+stroke
+newpath
+582 -248 m 582 -248 l
+stroke
+newpath
+582 -248 m 583 -249 l
+stroke
+showpage

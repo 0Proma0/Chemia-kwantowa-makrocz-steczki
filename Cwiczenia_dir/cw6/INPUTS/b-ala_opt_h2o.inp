@@ -1,0 +1,54 @@
+#P RHF/def2SVP SCRF(PCM,solvent=water) Opt Pop=Full GFInput IOP(6/7=3)
+
+Optymalizacja b-alanina w wodzie
+
+0 1
+ c
+ c   1 cc2     
+ c    2 cc3         1 ccc3      
+ n    3 nc4         2 ncc4          1 dih4   
+ h    4 hn5         3 hnc5          2 dih5   
+ h    4 hn6         3 hnc6          5 dih6   
+ h    4 hn7         5 hnh7          6 dih7   
+ h    3 hc8         4 hcn8          2 dih8   
+ h    3 hc9         4 hcn9          2 dih9   
+ h    2 hc10        1 hcc10         3 dih10  
+ h    2 hc11        3 hcc11         1 dih11  
+ o    1 oc12        2 occ12         3 dih12  
+ o    1 oc13       12 oco13         2 dih13  
+ 
+cc2         1.500000
+cc3         1.500000
+ccc3        109.471
+nc4         1.460000
+ncc4        109.471
+dih4         60.000
+hn5         1.030000
+hnc5        109.471
+dih5        120.000
+hn6         1.030000
+hnc6        109.471
+dih6        120.000
+hn7         1.030000
+hnh7        109.471
+dih7       -120.000
+hc8         1.070000
+hcn8        109.471
+dih8       -120.000
+hc9         1.070000
+hcn9        109.471
+dih9        120.000
+hc10        1.070000
+hcc10       109.471
+dih10       120.000
+hc11        1.070000
+hcc11       109.471
+dih11       120.000
+oc12        1.240000
+occ12       120.000
+dih12       180.000
+oc13        1.380000
+oco13       120.000
+dih13       180.000
+ 
+ 

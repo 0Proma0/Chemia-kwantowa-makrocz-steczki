@@ -1,0 +1,54 @@
+#P RHF/def2SVP Pop(Full,ESP) GFInput IOP(6/7=3)
+ 
+ESP dla struktury zoptymalizowanej z wodą
+
+ 0 1
+ c
+ c   1 cc2     
+ n    2 nc3         1 ncc3      
+ c    1 cc4         2 ccc4          3 dih4   
+ o    4 oc5         1 occ5          2 dih5   
+ o    4 oc6         1 occ6          2 dih6   
+ h    3 hn7         2 hnc7          1 dih7   
+ h    3 hn8         2 hnc8          1 dih8   
+ h    3 hn9         2 hnc9          1 dih9   
+ h    2 hc10        1 hcc10         4 dih10  
+ h    2 hc11        1 hcc11         4 dih11  
+ h    1 hc12        4 hcc12         6 dih12  
+ h    1 hc13        4 hcc13         6 dih13  
+ 
+cc2         1.520984
+nc3         1.485670
+ncc3        110.250
+cc4         1.540275
+ccc4        114.580
+dih4         56.546
+oc5         1.248404
+occ5        116.114
+dih5        -26.520
+oc6         1.219854
+occ6        117.066
+dih6        155.191
+hn7         1.010682
+hnc7        112.381
+dih7         70.944
+hn8         1.009776
+hnc8        112.705
+dih8       -167.202
+hn9         1.036515
+hnc9        104.438
+dih9        -46.750
+hc10        1.086509
+hcc10       112.094
+dih10       177.526
+hc11        1.087008
+hcc11       110.981
+dih11       -61.080
+hc12        1.094289
+hcc12       107.571
+dih12       -82.000
+hc13        1.088830
+hcc13       109.125
+dih13        33.019
+ 
+ 
